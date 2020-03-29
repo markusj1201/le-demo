@@ -1,0 +1,745 @@
+LEName,WellName,CorpID,ForecastGeneratedFrom,Wedge,LE_Date,Update_Date,Update_User
+ProductionForecast_Getulio,Nelson Hay 1 H,13071342-000,,Base,2020-02-01 00:00:00.000,2020-02-11 13:54:25.000,Travis Comer
+ProductionForecast_Getulio,Aclco Hay 1 H,13387002-000,,Base,2020-02-01 00:00:00.000,2020-02-11 13:53:05.000,Travis Comer
+ProductionForecast_Getulio,Aclco Hay 2 1 H,13763119-000,,Base,2020-02-01 00:00:00.000,2020-02-11 13:53:12.000,Travis Comer
+ProductionForecast_Getulio,Sarge 1 H R,13860389-001,,Base,2020-02-01 00:00:00.000,2020-02-11 13:54:42.000,Travis Comer
+ProductionForecast_Getulio,Wombat 1 H,14248578-000,,Base,2020-02-01 00:00:00.000,2020-02-11 13:55:14.000,Travis Comer
+ProductionForecast_Getulio,Wombat 2 H,14248579-000,,Base,2020-02-01 00:00:00.000,2020-02-11 13:55:21.000,Travis Comer
+ProductionForecast_Getulio,Bandicoot 2 H,14258600-000,,Base,2020-02-01 00:00:00.000,2020-02-11 13:55:43.000,Travis Comer
+ProductionForecast_Getulio,Bandicoot 1 H B,14269983-000,,Base,2020-02-01 00:00:00.000,2020-02-11 13:55:36.000,Travis Comer
+ProductionForecast_Getulio,Trex 1 H,14295238-000,,Base,2020-02-01 00:00:00.000,2020-02-11 13:54:59.000,Travis Comer
+ProductionForecast_Getulio,Walker 1 H,14295819-000,,Base,2020-02-01 00:00:00.000,2020-02-11 13:57:13.000,Travis Comer
+ProductionForecast_Getulio,Dino 1 H,14303813-000,,Base,2020-02-01 00:00:00.000,2020-02-11 13:55:51.000,Travis Comer
+ProductionForecast_Getulio,Wallaby 2 H,14309276-000,,Base,2020-02-01 00:00:00.000,2020-02-11 13:57:26.000,Travis Comer
+ProductionForecast_Getulio,Wallaby 1 H,14309562-000,,Base,2020-02-01 00:00:00.000,2020-02-11 13:57:19.000,Travis Comer
+ProductionForecast_Getulio,Taz 2 H,14312669-000,,Base,2020-02-01 00:00:00.000,2020-02-11 13:56:42.000,Travis Comer
+ProductionForecast_Getulio,Taz 5 H B,14313648-000,,Base,2020-02-01 00:00:00.000,2020-02-11 13:58:40.000,Travis Comer
+ProductionForecast_Getulio,Taz 4 H B,14313869-000,,Base,2020-02-01 00:00:00.000,2020-02-11 13:56:54.000,Travis Comer
+ProductionForecast_Getulio,Koala 3 H,14313988-000,,Base,2020-02-01 00:00:00.000,2020-02-11 13:57:50.000,Travis Comer
+ProductionForecast_Getulio,Taz 1 H,14316545-000,,Base,2020-02-01 00:00:00.000,2020-02-11 13:56:34.000,Travis Comer
+ProductionForecast_Getulio,Taz 3 H,14319343-000,,Base,2020-02-01 00:00:00.000,2020-02-11 13:56:48.000,Travis Comer
+ProductionForecast_Getulio,Saber 1 H,14319899-001,,Base,2020-02-01 00:00:00.000,2020-02-11 13:56:20.000,Travis Comer
+ProductionForecast_Getulio,Saber 1 H B,14319900-001,,Base,2020-02-01 00:00:00.000,2020-02-11 13:56:27.000,Travis Comer
+ProductionForecast_Getulio,Utahraptor 1 H,14322612-001,,Base,2020-02-01 00:00:00.000,2020-02-11 13:57:00.000,Travis Comer
+ProductionForecast_Getulio,Utahraptor 1 H B,14322613-001,,Base,2020-02-01 00:00:00.000,2020-02-11 13:57:07.000,Travis Comer
+ProductionForecast_Getulio,Koala 5 H,14322672-000,,Base,2020-02-01 00:00:00.000,2020-02-11 13:55:58.000,Travis Comer
+ProductionForecast_Getulio,Callisto 1 H,14325314-000,,Base,2020-02-01 00:00:00.000,2020-02-11 13:57:32.000,Travis Comer
+ProductionForecast_Getulio,Pluto 1 H,14326646-001,,Base,2020-02-01 00:00:00.000,2020-02-11 13:56:05.000,Travis Comer
+ProductionForecast_Getulio,Pluto 1 H B,14326647-001,,Base,2020-02-01 00:00:00.000,2020-02-11 13:56:12.000,Travis Comer
+ProductionForecast_Getulio,Gasosaurus 1 H,14340136-001,,Base,2020-02-01 00:00:00.000,2020-02-11 13:57:44.000,Travis Comer
+ProductionForecast_Getulio,Sugar Glider 1 H B,14340216-001,,Base,2020-02-01 00:00:00.000,2020-02-11 13:58:34.000,Travis Comer
+ProductionForecast_Getulio,Sugar Glider 1 H,14340217-001,,Base,2020-02-01 00:00:00.000,2020-02-11 13:58:27.000,Travis Comer
+ProductionForecast_Getulio,Rockies 1 H,14354532-002,,Base,2020-02-01 00:00:00.000,2020-02-11 13:58:15.000,Travis Comer
+ProductionForecast_Getulio,Wallaby 4 H B,14364160-000,,2019 NWD,2020-02-01 00:00:00.000,2020-02-11 13:59:59.000,Travis Comer
+ProductionForecast_Getulio,Koala 3 H B,14365559-000,,Base,2020-02-01 00:00:00.000,2020-02-11 13:57:56.000,Travis Comer
+ProductionForecast_Getulio,Trex 2 H,14365684-000,,Base,2020-02-01 00:00:00.000,2020-02-11 13:58:53.000,Travis Comer
+ProductionForecast_Getulio,Trex 2 H B,14365685-000,,Base,2020-02-01 00:00:00.000,2020-02-11 13:58:59.000,Travis Comer
+ProductionForecast_Getulio,Koala 6 H B,14367479-000,,Base,2020-02-01 00:00:00.000,2020-02-11 13:58:03.000,Travis Comer
+ProductionForecast_Getulio,Wallaby 3 H,14367849-000,,Base,2020-02-01 00:00:00.000,2020-02-11 13:59:27.000,Travis Comer
+ProductionForecast_Getulio,Wallaby 3 H B,14368525-000,,Base,2020-02-01 00:00:00.000,2020-02-11 13:59:34.000,Travis Comer
+ProductionForecast_Getulio,Velo 1 H,14374279-001,,Base,2020-02-01 00:00:00.000,2020-02-11 13:59:14.000,Travis Comer
+ProductionForecast_Getulio,Titan 2 H R,14374999-000,,Base,2020-02-01 00:00:00.000,2020-02-11 13:58:47.000,Travis Comer
+ProductionForecast_Getulio,Velo 1 H B,14376193-000,,Base,2020-02-01 00:00:00.000,2020-02-11 13:59:20.000,Travis Comer
+ProductionForecast_Getulio,Stego 1 H,14376194-000,,Base,2020-02-01 00:00:00.000,2020-02-11 13:58:21.000,Travis Comer
+ProductionForecast_Getulio,Kanga 2 H,14376244-000,,2019 NWD,2020-02-01 00:00:00.000,2020-02-11 13:59:46.000,Travis Comer
+ProductionForecast_Getulio,Kanga 2 H B,14376245-000,,2019 NWD,2020-02-01 00:00:00.000,2020-02-11 13:59:53.000,Travis Comer
+ProductionForecast_Getulio,Mississippi 1 H,14376246-000,,2019 NWD,2020-02-01 00:00:00.000,2020-02-11 14:01:08.000,Travis Comer
+ProductionForecast_Getulio,Proteus 1 H,14379956-000,,Base,2020-02-01 00:00:00.000,2020-02-11 13:58:09.000,Travis Comer
+ProductionForecast_Getulio,Koala 2 H,14379960-000,,2019 NWD,2020-02-01 00:00:00.000,2020-02-11 14:01:14.000,Travis Comer
+ProductionForecast_Getulio,Wombat 3 H B,14381121-000,,2019 NWD,2020-02-01 00:00:00.000,2020-02-11 14:00:30.000,Travis Comer
+ProductionForecast_Getulio,Trex 3 H B,14381815-000,,Base,2020-02-01 00:00:00.000,2020-02-11 13:59:08.000,Travis Comer
+ProductionForecast_Getulio,Dracorex 2 H,14384752-000,,Base,2020-02-01 00:00:00.000,2020-02-11 13:57:38.000,Travis Comer
+ProductionForecast_Getulio,Dracorex 2 H B,14384753-000,,2019 NWD,2020-02-01 00:00:00.000,2020-02-11 13:59:40.000,Travis Comer
+ProductionForecast_Getulio,Sugar Glider 2 H,14385259-000,,2019 NWD,2020-02-01 00:00:00.000,2020-02-11 14:00:18.000,Travis Comer
+ProductionForecast_Getulio,Sugar Glider 2 H B,14385419-000,,2019 NWD,2020-02-01 00:00:00.000,2020-02-11 14:00:24.000,Travis Comer
+ProductionForecast_Getulio,Titan 2 H B,14396384-000,,2019 NWD,2020-02-01 00:00:00.000,2020-02-11 14:00:05.000,Travis Comer
+ProductionForecast_Getulio,Allosaurus 3 H,14402359-000,,2019 NWD,2020-02-01 00:00:00.000,2020-02-11 14:00:37.000,Travis Comer
+ProductionForecast_Getulio,Allosaurus 3 H B,14402559-000,,2019 NWD,2020-02-01 00:00:00.000,2020-02-11 14:00:43.000,Travis Comer
+ProductionForecast_Getulio,Denali 3 H B,14404208-000,,2019 NWD,2020-02-01 00:00:00.000,2020-02-11 14:00:49.000,Travis Comer
+ProductionForecast_Getulio,Ttops 2 H,14404359-000,,2019 NWD,2020-02-01 00:00:00.000,2020-02-11 14:00:56.000,Travis Comer
+ProductionForecast_Getulio,Rockies 4 H B,14406376-000,,2019 NWD,2020-02-01 00:00:00.000,2020-02-11 14:00:12.000,Travis Comer
+ProductionForecast_Getulio,Bronto 3 H,14412265-000,,2019 NWD,2020-02-01 00:00:00.000,2020-02-11 14:01:40.000,Travis Comer
+ProductionForecast_Getulio,Bronto 3 H B,14412447-000,,2019 NWD,2020-02-01 00:00:00.000,2020-02-11 14:01:46.000,Travis Comer
+ProductionForecast_Getulio,Pluto 2 H B,14429980-000,,2019 NWD,2020-02-01 00:00:00.000,2020-02-11 14:01:02.000,Travis Comer
+ProductionForecast_Getulio,Callisto 2 H B,14443485-000,,2019 NWD,2020-02-01 00:00:00.000,2020-02-11 14:01:27.000,Travis Comer
+ProductionForecast_Getulio,Roo 2 H,14448851-000,,2020 NWD,2020-02-01 00:00:00.000,2020-02-11 14:01:52.000,Travis Comer
+ProductionForecast_Getulio,Europa 1 H,14452960-000,,2019 NWD,2020-02-01 00:00:00.000,2020-02-11 14:01:34.000,Travis Comer
+ProductionForecast_Getulio,Dracorex 1 H,14453509-000,,,2020-02-01 00:00:00.000,2020-02-11 14:01:59.000,Travis Comer
+ProductionForecast_Getulio,2018 NWD Unplanned 3PG,2018 NWD Unplanned 3PG,,,2020-02-01 00:00:00.000,2020-02-11 14:03:51.000,Travis Comer
+ProductionForecast_Getulio,2018 NWD Unplanned Ops,2018 NWD Unplanned Ops,,,2020-02-01 00:00:00.000,2020-02-11 14:03:33.000,Travis Comer
+ProductionForecast_Getulio,2019 NWD FHM,2019 NWD FHM,,,2020-02-01 00:00:00.000,2020-02-11 14:04:16.000,Travis Comer
+ProductionForecast_Getulio,2019 NWD Unplanned 3PG,2019 NWD Unplanned 3PG,,,2020-02-01 00:00:00.000,2020-02-11 14:04:04.000,Travis Comer
+ProductionForecast_Getulio,2019 NWD Unplanned Ops,2019 NWD Unplanned Ops,,,2020-02-01 00:00:00.000,2020-02-11 14:03:58.000,Travis Comer
+ProductionForecast_Getulio,Angie,Angie,,Base,2020-02-01 00:00:00.000,2020-02-11 13:53:19.000,Travis Comer
+ProductionForecast_Getulio,Apato 1H,Apato 1H,,,2020-02-01 00:00:00.000,2020-02-11 14:02:43.000,Travis Comer
+ProductionForecast_Getulio,Base FHM,Base FHM,,,2020-02-01 00:00:00.000,2020-02-11 14:04:10.000,Travis Comer
+ProductionForecast_Getulio,Base Unplanned 3PG,Base Unplanned 3PG,,,2020-02-01 00:00:00.000,2020-02-11 14:03:43.000,Travis Comer
+ProductionForecast_Getulio,Base Unplanned Ops,Base Unplanned Ops,,,2020-02-01 00:00:00.000,2020-02-11 14:03:24.000,Travis Comer
+ProductionForecast_Getulio,Blocker,Blocker,,Base,2020-02-01 00:00:00.000,2020-02-11 13:53:26.000,Travis Comer
+ProductionForecast_Getulio,Brookeland,Brookeland,,,2020-02-01 00:00:00.000,2020-02-11 13:53:33.000,Travis Comer
+ProductionForecast_Getulio,Concavenator 2H,Concavenator 2H,,,2020-02-01 00:00:00.000,2020-02-11 14:03:15.000,Travis Comer
+ProductionForecast_Getulio,CW 2015 NWD,CW 2015 NWD,,,2020-02-01 00:00:00.000,2020-02-11 13:53:40.000,Travis Comer
+ProductionForecast_Getulio,CW 2016 NWD,CW 2016 NWD,,,2020-02-01 00:00:00.000,2020-02-11 13:53:47.000,Travis Comer
+ProductionForecast_Getulio,East Carthage,East Carthage,,Base,2020-02-01 00:00:00.000,2020-02-11 13:53:54.000,Travis Comer
+ProductionForecast_Getulio,"Europa 2HB ","Europa 2HB ",,,2020-02-01 00:00:00.000,2020-02-11 14:03:02.000,Travis Comer
+ProductionForecast_Getulio,Europa 3HU,Europa 3HU,,,2020-02-01 00:00:00.000,2020-02-11 14:03:09.000,Travis Comer
+ProductionForecast_Getulio,Fox,Fox,,,2020-02-01 00:00:00.000,2020-02-11 13:54:01.000,Travis Comer
+ProductionForecast_Getulio,Ganymede 1H,Ganymede 1H,,,2020-02-01 00:00:00.000,2020-02-11 14:02:05.000,Travis Comer
+ProductionForecast_Getulio,Ganymede 1HB,Ganymede 1HB,,,2020-02-01 00:00:00.000,2020-02-11 14:02:11.000,Travis Comer
+ProductionForecast_Getulio,Glenwood,Glenwood,,Base,2020-02-01 00:00:00.000,2020-02-11 13:54:08.000,Travis Comer
+ProductionForecast_Getulio,Irritator 1H,Irritator 1H,,,2020-02-01 00:00:00.000,2020-02-11 14:02:50.000,Travis Comer
+ProductionForecast_Getulio,Nash,Nash,,,2020-02-01 00:00:00.000,2020-02-11 13:54:16.000,Travis Comer
+ProductionForecast_Getulio,Oak Hill,Oak Hill,,Base,2020-02-01 00:00:00.000,2020-02-11 13:54:33.000,Travis Comer
+ProductionForecast_Getulio,Pluto 2HR,Pluto 2HR,,,2020-02-01 00:00:00.000,2020-02-11 14:02:56.000,Travis Comer
+ProductionForecast_Getulio,Rhea 1H,Rhea 1H,,,2020-02-01 00:00:00.000,2020-02-11 14:02:17.000,Travis Comer
+ProductionForecast_Getulio,Rhea 1HB,Rhea 1HB,,,2020-02-01 00:00:00.000,2020-02-11 14:02:24.000,Travis Comer
+ProductionForecast_Getulio,Rhea 2HU,Rhea 2HU,,,2020-02-01 00:00:00.000,2020-02-11 14:02:30.000,Travis Comer
+ProductionForecast_Getulio,Stockman,Stockman,,Base,2020-02-01 00:00:00.000,2020-02-11 13:54:50.000,Travis Comer
+ProductionForecast_Getulio,Ttops 2 H B,Ttops 2 H B,,,2020-02-01 00:00:00.000,2020-02-11 14:01:20.000,Travis Comer
+ProductionForecast_Getulio,Walker J 3HB,Walker J 3HB,,,2020-02-01 00:00:00.000,2020-02-11 14:02:37.000,Travis Comer
+ProductionForecast_Getulio,West Carthage,West Carthage,,Base,2020-02-01 00:00:00.000,2020-02-11 13:55:07.000,Travis Comer
+ProductionForecast_Getulio,Woodlawn,Woodlawn,,Base,2020-02-01 00:00:00.000,2020-02-11 13:55:29.000,Travis Comer
+Short_From_Forecast,Kanga 2 H,14376244-000,TestTravis2020,2019 NWD,2019-01-07 00:00:00.000,2020-01-14 15:42:40.000,Travis Comer
+Short_From_Forecast,Kanga 2 H B,14376245-000,TestTravis2020,2019 NWD,2019-01-07 00:00:00.000,2020-01-14 15:42:40.000,Travis Comer
+Short_From_Forecast,Wombat 3 H B,14381121-000,TestTravis2020,2019 NWD,2019-01-07 00:00:00.000,2020-01-14 15:42:41.000,Travis Comer
+Short_From_Forecast,Sugar Glider 2 H,14385259-000,TestTravis2020,2019 NWD,2019-01-07 00:00:00.000,2020-01-14 15:42:42.000,Travis Comer
+Short_From_Forecast,Sugar Glider 2 H B,14385419-000,TestTravis2020,2019 NWD,2019-01-07 00:00:00.000,2020-01-14 15:42:43.000,Travis Comer
+Short_From_Forecast,Allosaurus 3 H,14402359-000,TestTravis2020,2019 NWD,2019-01-07 00:00:00.000,2020-01-14 15:42:43.000,Travis Comer
+Short_From_Forecast,Allosaurus 3 H B,14402559-000,TestTravis2020,2019 NWD,2019-01-07 00:00:00.000,2020-01-14 15:42:44.000,Travis Comer
+Short_From_Forecast,Denali 3 H B,14404208-000,TestTravis2020,2019 NWD,2019-01-07 00:00:00.000,2020-01-14 15:42:45.000,Travis Comer
+Short_From_Forecast,Rockies 4 H B,14406376-000,TestTravis2020,2019 NWD,2019-01-07 00:00:00.000,2020-01-14 15:42:46.000,Travis Comer
+Short_From_Forecast_2,Kanga 2 H,14376244-000,TestTravis2020,2019 NWD,2019-01-01 00:00:00.000,2020-01-14 15:42:23.000,Travis Comer
+Short_From_Forecast_2,Kanga 2 H B,14376245-000,TestTravis2020,2019 NWD,2019-01-01 00:00:00.000,2020-01-14 15:42:24.000,Travis Comer
+Short_From_Forecast_2,Wombat 3 H B,14381121-000,TestTravis2020,2019 NWD,2019-01-01 00:00:00.000,2020-01-14 15:42:24.000,Travis Comer
+Short_From_Forecast_2,Sugar Glider 2 H,14385259-000,TestTravis2020,2019 NWD,2019-01-01 00:00:00.000,2020-01-14 15:42:26.000,Travis Comer
+Short_From_Forecast_2,Sugar Glider 2 H B,14385419-000,TestTravis2020,2019 NWD,2019-01-01 00:00:00.000,2020-01-14 15:42:26.000,Travis Comer
+Short_From_Forecast_2,Allosaurus 3 H,14402359-000,TestTravis2020,2019 NWD,2019-01-01 00:00:00.000,2020-01-14 15:42:27.000,Travis Comer
+Short_From_Forecast_2,Allosaurus 3 H B,14402559-000,TestTravis2020,2019 NWD,2019-01-01 00:00:00.000,2020-01-14 15:42:28.000,Travis Comer
+Short_From_Forecast_2,Denali 3 H B,14404208-000,TestTravis2020,2019 NWD,2019-01-01 00:00:00.000,2020-01-14 15:42:29.000,Travis Comer
+Short_From_Forecast_2,Rockies 4 H B,14406376-000,TestTravis2020,2019 NWD,2019-01-01 00:00:00.000,2020-01-14 15:42:29.000,Travis Comer
+SoHaFebruaryForecast,Nelson Hay 1 H,13071342-000,,Base,2020-02-01 00:00:00.000,2020-01-30 13:49:55.000,Travis Comer
+SoHaFebruaryForecast,Aclco Hay 1 H,13387002-000,,Base,2020-02-01 00:00:00.000,2020-01-30 13:49:39.000,Travis Comer
+SoHaFebruaryForecast,Aclco Hay 2 1 H,13763119-000,,Base,2020-02-01 00:00:00.000,2020-01-30 13:49:40.000,Travis Comer
+SoHaFebruaryForecast,Sarge 1 H R,13860389-001,,Base,2020-02-01 00:00:00.000,2020-01-30 13:49:58.000,Travis Comer
+SoHaFebruaryForecast,Wombat 1 H,14248578-000,,Base,2020-02-01 00:00:00.000,2020-01-30 13:50:04.000,Travis Comer
+SoHaFebruaryForecast,Wombat 2 H,14248579-000,,Base,2020-02-01 00:00:00.000,2020-01-30 13:50:05.000,Travis Comer
+SoHaFebruaryForecast,Bandicoot 2 H,14258600-000,,Base,2020-02-01 00:00:00.000,2020-01-30 13:50:10.000,Travis Comer
+SoHaFebruaryForecast,Bandicoot 1 H B,14269983-000,,Base,2020-02-01 00:00:00.000,2020-01-30 13:50:08.000,Travis Comer
+SoHaFebruaryForecast,Trex 1 H,14295238-000,,Base,2020-02-01 00:00:00.000,2020-01-30 13:50:00.000,Travis Comer
+SoHaFebruaryForecast,Walker 1 H,14295819-000,,Base,2020-02-01 00:00:00.000,2020-01-30 13:50:28.000,Travis Comer
+SoHaFebruaryForecast,Dino 1 H,14303813-000,,Base,2020-02-01 00:00:00.000,2020-01-30 13:50:11.000,Travis Comer
+SoHaFebruaryForecast,Wallaby 2 H,14309276-000,,Base,2020-02-01 00:00:00.000,2020-01-30 13:50:31.000,Travis Comer
+SoHaFebruaryForecast,Wallaby 1 H,14309562-000,,Base,2020-02-01 00:00:00.000,2020-01-30 13:50:30.000,Travis Comer
+SoHaFebruaryForecast,Taz 2 H,14312669-000,,Base,2020-02-01 00:00:00.000,2020-01-30 13:50:21.000,Travis Comer
+SoHaFebruaryForecast,Taz 5 H B,14313648-000,,Base,2020-02-01 00:00:00.000,2020-01-30 13:50:49.000,Travis Comer
+SoHaFebruaryForecast,Taz 4 H B,14313869-000,,Base,2020-02-01 00:00:00.000,2020-01-30 13:50:24.000,Travis Comer
+SoHaFebruaryForecast,Koala 3 H,14313988-000,,Base,2020-02-01 00:00:00.000,2020-01-30 13:50:37.000,Travis Comer
+SoHaFebruaryForecast,Taz 1 H,14316545-000,,Base,2020-02-01 00:00:00.000,2020-01-30 13:50:20.000,Travis Comer
+SoHaFebruaryForecast,Taz 3 H,14319343-000,,Base,2020-02-01 00:00:00.000,2020-01-30 13:50:23.000,Travis Comer
+SoHaFebruaryForecast,Saber 1 H,14319899-001,,Base,2020-02-01 00:00:00.000,2020-01-30 13:50:17.000,Travis Comer
+SoHaFebruaryForecast,Saber 1 H B,14319900-001,,Base,2020-02-01 00:00:00.000,2020-01-30 13:50:18.000,Travis Comer
+SoHaFebruaryForecast,Utahraptor 1 H,14322612-001,,Base,2020-02-01 00:00:00.000,2020-01-30 13:50:25.000,Travis Comer
+SoHaFebruaryForecast,Utahraptor 1 H B,14322613-001,,Base,2020-02-01 00:00:00.000,2020-01-30 13:50:27.000,Travis Comer
+SoHaFebruaryForecast,Koala 5 H,14322672-000,,Base,2020-02-01 00:00:00.000,2020-01-30 13:50:12.000,Travis Comer
+SoHaFebruaryForecast,Callisto 1 H,14325314-000,,Base,2020-02-01 00:00:00.000,2020-01-30 13:50:33.000,Travis Comer
+SoHaFebruaryForecast,Pluto 1 H,14326646-001,,Base,2020-02-01 00:00:00.000,2020-01-30 13:50:14.000,Travis Comer
+SoHaFebruaryForecast,Pluto 1 H B,14326647-001,,Base,2020-02-01 00:00:00.000,2020-01-30 13:50:15.000,Travis Comer
+SoHaFebruaryForecast,Gasosaurus 1 H,14340136-001,,Base,2020-02-01 00:00:00.000,2020-01-30 13:50:36.000,Travis Comer
+SoHaFebruaryForecast,Sugar Glider 1 H B,14340216-001,,Base,2020-02-01 00:00:00.000,2020-01-30 13:50:47.000,Travis Comer
+SoHaFebruaryForecast,Sugar Glider 1 H,14340217-001,,Base,2020-02-01 00:00:00.000,2020-01-30 13:50:46.000,Travis Comer
+SoHaFebruaryForecast,Rockies 1 H,14354532-002,,Base,2020-02-01 00:00:00.000,2020-01-30 13:50:43.000,Travis Comer
+SoHaFebruaryForecast,Wallaby 4 H B,14364160-000,,2019 NWD,2020-02-01 00:00:00.000,2020-01-30 13:51:06.000,Travis Comer
+SoHaFebruaryForecast,Koala 3 H B,14365559-000,,Base,2020-02-01 00:00:00.000,2020-01-30 13:50:38.000,Travis Comer
+SoHaFebruaryForecast,Trex 2 H,14365684-000,,Base,2020-02-01 00:00:00.000,2020-01-30 13:50:51.000,Travis Comer
+SoHaFebruaryForecast,Trex 2 H B,14365685-000,,Base,2020-02-01 00:00:00.000,2020-01-30 13:50:53.000,Travis Comer
+SoHaFebruaryForecast,Koala 6 H B,14367479-000,,Base,2020-02-01 00:00:00.000,2020-01-30 13:50:40.000,Travis Comer
+SoHaFebruaryForecast,Wallaby 3 H,14367849-000,,Base,2020-02-01 00:00:00.000,2020-01-30 13:50:58.000,Travis Comer
+SoHaFebruaryForecast,Wallaby 3 H B,14368525-000,,Base,2020-02-01 00:00:00.000,2020-01-30 13:51:00.000,Travis Comer
+SoHaFebruaryForecast,Velo 1 H,14374279-001,,Base,2020-02-01 00:00:00.000,2020-01-30 13:50:56.000,Travis Comer
+SoHaFebruaryForecast,Titan 2 H R,14374999-000,,Base,2020-02-01 00:00:00.000,2020-01-30 13:50:50.000,Travis Comer
+SoHaFebruaryForecast,Velo 1 H B,14376193-000,,Base,2020-02-01 00:00:00.000,2020-01-30 13:50:57.000,Travis Comer
+SoHaFebruaryForecast,Stego 1 H,14376194-000,,Base,2020-02-01 00:00:00.000,2020-01-30 13:50:44.000,Travis Comer
+SoHaFebruaryForecast,Kanga 2 H,14376244-000,,2019 NWD,2020-02-01 00:00:00.000,2020-01-30 13:51:03.000,Travis Comer
+SoHaFebruaryForecast,Kanga 2 H B,14376245-000,,2019 NWD,2020-02-01 00:00:00.000,2020-01-30 13:51:04.000,Travis Comer
+SoHaFebruaryForecast,Mississippi 1 H,14376246-000,,2019 NWD,2020-02-01 00:00:00.000,2020-01-30 13:51:21.000,Travis Comer
+SoHaFebruaryForecast,Proteus 1 H,14379956-000,,Base,2020-02-01 00:00:00.000,2020-01-30 13:50:41.000,Travis Comer
+SoHaFebruaryForecast,Koala 2 H,14379960-000,,2019 NWD,2020-02-01 00:00:00.000,2020-01-30 13:51:23.000,Travis Comer
+SoHaFebruaryForecast,Wombat 3 H B,14381121-000,,2019 NWD,2020-02-01 00:00:00.000,2020-01-30 13:51:13.000,Travis Comer
+SoHaFebruaryForecast,Trex 3 H B,14381815-000,,Base,2020-02-01 00:00:00.000,2020-01-30 13:50:54.000,Travis Comer
+SoHaFebruaryForecast,Dracorex 2 H,14384752-000,,Base,2020-02-01 00:00:00.000,2020-01-30 13:50:34.000,Travis Comer
+SoHaFebruaryForecast,Dracorex 2 H B,14384753-000,,2019 NWD,2020-02-01 00:00:00.000,2020-01-30 13:51:02.000,Travis Comer
+SoHaFebruaryForecast,Sugar Glider 2 H,14385259-000,,2019 NWD,2020-02-01 00:00:00.000,2020-01-30 13:51:10.000,Travis Comer
+SoHaFebruaryForecast,Sugar Glider 2 H B,14385419-000,,2019 NWD,2020-02-01 00:00:00.000,2020-01-30 13:51:12.000,Travis Comer
+SoHaFebruaryForecast,Titan 2 H B,14396384-000,,2019 NWD,2020-02-01 00:00:00.000,2020-01-30 13:51:07.000,Travis Comer
+SoHaFebruaryForecast,Allosaurus 3 H,14402359-000,,2019 NWD,2020-02-01 00:00:00.000,2020-01-30 13:51:14.000,Travis Comer
+SoHaFebruaryForecast,Allosaurus 3 H B,14402559-000,,2019 NWD,2020-02-01 00:00:00.000,2020-01-30 13:51:16.000,Travis Comer
+SoHaFebruaryForecast,Denali 3 H B,14404208-000,,2019 NWD,2020-02-01 00:00:00.000,2020-01-30 13:51:17.000,Travis Comer
+SoHaFebruaryForecast,Ttops 2 H,14404359-000,,2019 NWD,2020-02-01 00:00:00.000,2020-01-30 13:51:19.000,Travis Comer
+SoHaFebruaryForecast,Rockies 4 H B,14406376-000,,2019 NWD,2020-02-01 00:00:00.000,2020-01-30 13:51:09.000,Travis Comer
+SoHaFebruaryForecast,Bronto 3 H,14412265-000,,2019 NWD,2020-02-01 00:00:00.000,2020-01-30 13:51:29.000,Travis Comer
+SoHaFebruaryForecast,Bronto 3 H B,14412447-000,,2019 NWD,2020-02-01 00:00:00.000,2020-01-30 13:51:30.000,Travis Comer
+SoHaFebruaryForecast,Pluto 2 H B,14429980-000,,2019 NWD,2020-02-01 00:00:00.000,2020-01-30 13:51:20.000,Travis Comer
+SoHaFebruaryForecast,Callisto 2 H B,14443485-000,,2019 NWD,2020-02-01 00:00:00.000,2020-01-30 13:51:26.000,Travis Comer
+SoHaFebruaryForecast,Roo 2 H,14448851-000,,2020 NWD,2020-02-01 00:00:00.000,2020-01-30 13:51:31.000,Travis Comer
+SoHaFebruaryForecast,Europa 1 H,14452960-000,,2019 NWD,2020-02-01 00:00:00.000,2020-01-30 13:51:27.000,Travis Comer
+SoHaFebruaryForecast,Dracorex 1H,14453509-000,,,2020-02-01 00:00:00.000,2020-01-30 13:51:33.000,Travis Comer
+SoHaFebruaryForecast,2018 NWD Unplanned 3PG,2018 NWD Unplanned 3PG,,,2020-02-01 00:00:00.000,2020-01-30 13:51:58.000,Travis Comer
+SoHaFebruaryForecast,2018 NWD Unplanned Ops,2018 NWD Unplanned Ops,,,2020-02-01 00:00:00.000,2020-01-30 13:51:54.000,Travis Comer
+SoHaFebruaryForecast,2019 NWD FHM,2019 NWD FHM,,,2020-02-01 00:00:00.000,2020-01-30 13:52:04.000,Travis Comer
+SoHaFebruaryForecast,2019 NWD Unplanned 3PG,2019 NWD Unplanned 3PG,,,2020-02-01 00:00:00.000,2020-01-30 13:52:01.000,Travis Comer
+SoHaFebruaryForecast,2019 NWD Unplanned Ops,2019 NWD Unplanned Ops,,,2020-02-01 00:00:00.000,2020-01-30 13:51:59.000,Travis Comer
+SoHaFebruaryForecast,Angie,Angie,,Base,2020-02-01 00:00:00.000,2020-01-30 13:49:41.000,Travis Comer
+SoHaFebruaryForecast,Apato 1H,Apato 1H,,,2020-02-01 00:00:00.000,2020-01-30 13:51:43.000,Travis Comer
+SoHaFebruaryForecast,Base FHM,Base FHM,,,2020-02-01 00:00:00.000,2020-01-30 13:52:02.000,Travis Comer
+SoHaFebruaryForecast,Base Unplanned 3PG,Base Unplanned 3PG,,,2020-02-01 00:00:00.000,2020-01-30 13:51:56.000,Travis Comer
+SoHaFebruaryForecast,Base Unplanned Ops,Base Unplanned Ops,,,2020-02-01 00:00:00.000,2020-01-30 13:51:52.000,Travis Comer
+SoHaFebruaryForecast,Blocker,Blocker,,Base,2020-02-01 00:00:00.000,2020-01-30 13:49:43.000,Travis Comer
+SoHaFebruaryForecast,Brookeland,Brookeland,,,2020-02-01 00:00:00.000,2020-01-30 13:49:44.000,Travis Comer
+SoHaFebruaryForecast,Concavenator 2H,Concavenator 2H,,,2020-02-01 00:00:00.000,2020-01-30 13:51:50.000,Travis Comer
+SoHaFebruaryForecast,CW 2015 NWD,CW 2015 NWD,,,2020-02-01 00:00:00.000,2020-01-30 13:49:46.000,Travis Comer
+SoHaFebruaryForecast,CW 2016 NWD,CW 2016 NWD,,,2020-02-01 00:00:00.000,2020-01-30 13:49:47.000,Travis Comer
+SoHaFebruaryForecast,East Carthage,East Carthage,,Base,2020-02-01 00:00:00.000,2020-01-30 13:49:49.000,Travis Comer
+SoHaFebruaryForecast,"Europa 2HB ","Europa 2HB ",,,2020-02-01 00:00:00.000,2020-01-30 13:51:47.000,Travis Comer
+SoHaFebruaryForecast,Europa 3HU,Europa 3HU,,,2020-02-01 00:00:00.000,2020-01-30 13:51:48.000,Travis Comer
+SoHaFebruaryForecast,Fox,Fox,,,2020-02-01 00:00:00.000,2020-01-30 13:49:50.000,Travis Comer
+SoHaFebruaryForecast,Ganymede 1H,Ganymede 1H,,,2020-02-01 00:00:00.000,2020-01-30 13:51:34.000,Travis Comer
+SoHaFebruaryForecast,Ganymede 1HB,Ganymede 1HB,,,2020-02-01 00:00:00.000,2020-01-30 13:51:36.000,Travis Comer
+SoHaFebruaryForecast,Glenwood,Glenwood,,Base,2020-02-01 00:00:00.000,2020-01-30 13:49:52.000,Travis Comer
+SoHaFebruaryForecast,Irritator 1H,Irritator 1H,,,2020-02-01 00:00:00.000,2020-01-30 13:51:44.000,Travis Comer
+SoHaFebruaryForecast,Nash,Nash,,,2020-02-01 00:00:00.000,2020-01-30 13:49:53.000,Travis Comer
+SoHaFebruaryForecast,Oak Hill,Oak Hill,,Base,2020-02-01 00:00:00.000,2020-01-30 13:49:56.000,Travis Comer
+SoHaFebruaryForecast,Pluto 2HR,Pluto 2HR,,,2020-02-01 00:00:00.000,2020-01-30 13:51:46.000,Travis Comer
+SoHaFebruaryForecast,Rhea 1H,Rhea 1H,,,2020-02-01 00:00:00.000,2020-01-30 13:51:37.000,Travis Comer
+SoHaFebruaryForecast,Rhea 1HB,Rhea 1HB,,,2020-02-01 00:00:00.000,2020-01-30 13:51:39.000,Travis Comer
+SoHaFebruaryForecast,Rhea 2HU,Rhea 2HU,,,2020-02-01 00:00:00.000,2020-01-30 13:51:40.000,Travis Comer
+SoHaFebruaryForecast,Stockman,Stockman,,Base,2020-02-01 00:00:00.000,2020-01-30 13:49:59.000,Travis Comer
+SoHaFebruaryForecast,Ttops 2 H B,Ttops 2 H B,,,2020-02-01 00:00:00.000,2020-01-30 13:51:24.000,Travis Comer
+SoHaFebruaryForecast,Walker J 3HB,Walker J 3HB,,,2020-02-01 00:00:00.000,2020-01-30 13:51:41.000,Travis Comer
+SoHaFebruaryForecast,West Carthage,West Carthage,,Base,2020-02-01 00:00:00.000,2020-01-30 13:50:02.000,Travis Comer
+SoHaFebruaryForecast,Woodlawn,Woodlawn,,Base,2020-02-01 00:00:00.000,2020-01-30 13:50:07.000,Travis Comer
+SoHaFebruaryForecast_v2,Nelson Hay 1 H,13071342-000,,Base,2020-02-01 00:00:00.000,2020-02-04 10:01:32.000,Travis Comer
+SoHaFebruaryForecast_v2,Aclco Hay 1 H,13387002-000,,Base,2020-02-01 00:00:00.000,2020-02-04 10:01:16.000,Travis Comer
+SoHaFebruaryForecast_v2,Aclco Hay 2 1 H,13763119-000,,Base,2020-02-01 00:00:00.000,2020-02-04 10:01:18.000,Travis Comer
+SoHaFebruaryForecast_v2,Sarge 1 H R,13860389-001,,Base,2020-02-01 00:00:00.000,2020-02-04 10:01:35.000,Travis Comer
+SoHaFebruaryForecast_v2,Wombat 1 H,14248578-000,,Base,2020-02-01 00:00:00.000,2020-02-04 10:01:41.000,Travis Comer
+SoHaFebruaryForecast_v2,Wombat 2 H,14248579-000,,Base,2020-02-01 00:00:00.000,2020-02-04 10:01:42.000,Travis Comer
+SoHaFebruaryForecast_v2,Bandicoot 2 H,14258600-000,,Base,2020-02-01 00:00:00.000,2020-02-04 10:01:46.000,Travis Comer
+SoHaFebruaryForecast_v2,Bandicoot 1 H B,14269983-000,,Base,2020-02-01 00:00:00.000,2020-02-04 10:01:45.000,Travis Comer
+SoHaFebruaryForecast_v2,Trex 1 H,14295238-000,,Base,2020-02-01 00:00:00.000,2020-02-04 10:01:38.000,Travis Comer
+SoHaFebruaryForecast_v2,Walker 1 H,14295819-000,,Base,2020-02-01 00:00:00.000,2020-02-04 10:02:05.000,Travis Comer
+SoHaFebruaryForecast_v2,Dino 1 H,14303813-000,,Base,2020-02-01 00:00:00.000,2020-02-04 10:01:48.000,Travis Comer
+SoHaFebruaryForecast_v2,Wallaby 2 H,14309276-000,,Base,2020-02-01 00:00:00.000,2020-02-04 10:02:07.000,Travis Comer
+SoHaFebruaryForecast_v2,Wallaby 1 H,14309562-000,,Base,2020-02-01 00:00:00.000,2020-02-04 10:02:06.000,Travis Comer
+SoHaFebruaryForecast_v2,Taz 2 H,14312669-000,,Base,2020-02-01 00:00:00.000,2020-02-04 10:01:58.000,Travis Comer
+SoHaFebruaryForecast_v2,Taz 5 H B,14313648-000,,Base,2020-02-01 00:00:00.000,2020-02-04 10:02:23.000,Travis Comer
+SoHaFebruaryForecast_v2,Taz 4 H B,14313869-000,,Base,2020-02-01 00:00:00.000,2020-02-04 10:02:00.000,Travis Comer
+SoHaFebruaryForecast_v2,Koala 3 H,14313988-000,,Base,2020-02-01 00:00:00.000,2020-02-04 10:02:12.000,Travis Comer
+SoHaFebruaryForecast_v2,Taz 1 H,14316545-000,,Base,2020-02-01 00:00:00.000,2020-02-04 10:01:56.000,Travis Comer
+SoHaFebruaryForecast_v2,Taz 3 H,14319343-000,,Base,2020-02-01 00:00:00.000,2020-02-04 10:01:59.000,Travis Comer
+SoHaFebruaryForecast_v2,Saber 1 H,14319899-001,,Base,2020-02-01 00:00:00.000,2020-02-04 10:01:53.000,Travis Comer
+SoHaFebruaryForecast_v2,Saber 1 H B,14319900-001,,Base,2020-02-01 00:00:00.000,2020-02-04 10:01:55.000,Travis Comer
+SoHaFebruaryForecast_v2,Utahraptor 1 H,14322612-001,,Base,2020-02-01 00:00:00.000,2020-02-04 10:02:02.000,Travis Comer
+SoHaFebruaryForecast_v2,Utahraptor 1 H B,14322613-001,,Base,2020-02-01 00:00:00.000,2020-02-04 10:02:03.000,Travis Comer
+SoHaFebruaryForecast_v2,Koala 5 H,14322672-000,,Base,2020-02-01 00:00:00.000,2020-02-04 10:01:49.000,Travis Comer
+SoHaFebruaryForecast_v2,Callisto 1 H,14325314-000,,Base,2020-02-01 00:00:00.000,2020-02-04 10:02:09.000,Travis Comer
+SoHaFebruaryForecast_v2,Pluto 1 H,14326646-001,,Base,2020-02-01 00:00:00.000,2020-02-04 10:01:51.000,Travis Comer
+SoHaFebruaryForecast_v2,Pluto 1 H B,14326647-001,,Base,2020-02-01 00:00:00.000,2020-02-04 10:01:52.000,Travis Comer
+SoHaFebruaryForecast_v2,Gasosaurus 1 H,14340136-001,,Base,2020-02-01 00:00:00.000,2020-02-04 10:01:12.000,Travis Comer
+SoHaFebruaryForecast_v2,Sugar Glider 1 H B,14340216-001,,Base,2020-02-01 00:00:00.000,2020-02-04 10:02:21.000,Travis Comer
+SoHaFebruaryForecast_v2,Sugar Glider 1 H,14340217-001,,Base,2020-02-01 00:00:00.000,2020-02-04 10:02:20.000,Travis Comer
+SoHaFebruaryForecast_v2,Rockies 1 H,14354532-002,,Base,2020-02-01 00:00:00.000,2020-02-04 10:02:17.000,Travis Comer
+SoHaFebruaryForecast_v2,Wallaby 4 H B,14364160-000,,2019 NWD,2020-02-01 00:00:00.000,2020-02-04 10:02:38.000,Travis Comer
+SoHaFebruaryForecast_v2,Koala 3 H B,14365559-000,,Base,2020-02-01 00:00:00.000,2020-02-04 10:02:13.000,Travis Comer
+SoHaFebruaryForecast_v2,Trex 2 H,14365684-000,,Base,2020-02-01 00:00:00.000,2020-02-04 10:01:13.000,Travis Comer
+SoHaFebruaryForecast_v2,Trex 2 H B,14365685-000,,Base,2020-02-01 00:00:00.000,2020-02-04 10:02:25.000,Travis Comer
+SoHaFebruaryForecast_v2,Koala 6 H B,14367479-000,,Base,2020-02-01 00:00:00.000,2020-02-04 10:02:14.000,Travis Comer
+SoHaFebruaryForecast_v2,Wallaby 3 H,14367849-000,,Base,2020-02-01 00:00:00.000,2020-02-04 10:02:31.000,Travis Comer
+SoHaFebruaryForecast_v2,Wallaby 3 H B,14368525-000,,Base,2020-02-01 00:00:00.000,2020-02-04 10:02:32.000,Travis Comer
+SoHaFebruaryForecast_v2,Velo 1 H,14374279-001,,Base,2020-02-01 00:00:00.000,2020-02-04 10:02:28.000,Travis Comer
+SoHaFebruaryForecast_v2,Titan 2 H R,14374999-000,,Base,2020-02-01 00:00:00.000,2020-02-04 10:02:24.000,Travis Comer
+SoHaFebruaryForecast_v2,Velo 1 H B,14376193-000,,Base,2020-02-01 00:00:00.000,2020-02-04 10:02:30.000,Travis Comer
+SoHaFebruaryForecast_v2,Stego 1 H,14376194-000,,Base,2020-02-01 00:00:00.000,2020-02-04 10:02:18.000,Travis Comer
+SoHaFebruaryForecast_v2,Kanga 2 H,14376244-000,,2019 NWD,2020-02-01 00:00:00.000,2020-02-04 10:02:35.000,Travis Comer
+SoHaFebruaryForecast_v2,Kanga 2 H B,14376245-000,,2019 NWD,2020-02-01 00:00:00.000,2020-02-04 10:02:37.000,Travis Comer
+SoHaFebruaryForecast_v2,Mississippi 1 H,14376246-000,,2019 NWD,2020-02-01 00:00:00.000,2020-02-04 10:02:52.000,Travis Comer
+SoHaFebruaryForecast_v2,Proteus 1 H,14379956-000,,Base,2020-02-01 00:00:00.000,2020-02-04 10:02:16.000,Travis Comer
+SoHaFebruaryForecast_v2,Koala 2 H,14379960-000,,2019 NWD,2020-02-01 00:00:00.000,2020-02-04 10:02:53.000,Travis Comer
+SoHaFebruaryForecast_v2,Wombat 3 H B,14381121-000,,2019 NWD,2020-02-01 00:00:00.000,2020-02-04 10:02:44.000,Travis Comer
+SoHaFebruaryForecast_v2,Trex 3 H B,14381815-000,,Base,2020-02-01 00:00:00.000,2020-02-04 10:02:27.000,Travis Comer
+SoHaFebruaryForecast_v2,Dracorex 2 H,14384752-000,,Base,2020-02-01 00:00:00.000,2020-02-04 10:02:10.000,Travis Comer
+SoHaFebruaryForecast_v2,Dracorex 2 H B,14384753-000,,2019 NWD,2020-02-01 00:00:00.000,2020-02-04 10:02:34.000,Travis Comer
+SoHaFebruaryForecast_v2,Sugar Glider 2 H,14385259-000,,2019 NWD,2020-02-01 00:00:00.000,2020-02-04 10:02:41.000,Travis Comer
+SoHaFebruaryForecast_v2,Sugar Glider 2 H B,14385419-000,,2019 NWD,2020-02-01 00:00:00.000,2020-02-04 10:02:42.000,Travis Comer
+SoHaFebruaryForecast_v2,Titan 2 H B,14396384-000,,2019 NWD,2020-02-01 00:00:00.000,2020-02-04 10:01:15.000,Travis Comer
+SoHaFebruaryForecast_v2,Allosaurus 3 H,14402359-000,,2019 NWD,2020-02-01 00:00:00.000,2020-02-04 10:02:45.000,Travis Comer
+SoHaFebruaryForecast_v2,Allosaurus 3 H B,14402559-000,,2019 NWD,2020-02-01 00:00:00.000,2020-02-04 10:02:46.000,Travis Comer
+SoHaFebruaryForecast_v2,Denali 3 H B,14404208-000,,2019 NWD,2020-02-01 00:00:00.000,2020-02-04 10:02:48.000,Travis Comer
+SoHaFebruaryForecast_v2,Ttops 2 H,14404359-000,,2019 NWD,2020-02-01 00:00:00.000,2020-02-04 10:02:49.000,Travis Comer
+SoHaFebruaryForecast_v2,Rockies 4 H B,14406376-000,,2019 NWD,2020-02-01 00:00:00.000,2020-02-04 10:02:39.000,Travis Comer
+SoHaFebruaryForecast_v2,Bronto 3 H,14412265-000,,2019 NWD,2020-02-01 00:00:00.000,2020-02-04 10:02:59.000,Travis Comer
+SoHaFebruaryForecast_v2,Bronto 3 H B,14412447-000,,2019 NWD,2020-02-01 00:00:00.000,2020-02-04 10:03:00.000,Travis Comer
+SoHaFebruaryForecast_v2,Pluto 2 H B,14429980-000,,2019 NWD,2020-02-01 00:00:00.000,2020-02-04 10:02:51.000,Travis Comer
+SoHaFebruaryForecast_v2,Callisto 2 H B,14443485-000,,2019 NWD,2020-02-01 00:00:00.000,2020-02-04 10:02:56.000,Travis Comer
+SoHaFebruaryForecast_v2,Roo 2 H,14448851-000,,2020 NWD,2020-02-01 00:00:00.000,2020-02-04 10:03:02.000,Travis Comer
+SoHaFebruaryForecast_v2,Europa 1 H,14452960-000,,2019 NWD,2020-02-01 00:00:00.000,2020-02-04 10:02:58.000,Travis Comer
+SoHaFebruaryForecast_v2,Dracorex 1H,14453509-000,,,2020-02-01 00:00:00.000,2020-02-04 10:03:03.000,Travis Comer
+SoHaFebruaryForecast_v2,2018 NWD Unplanned 3PG,2018 NWD Unplanned 3PG,,,2020-02-01 00:00:00.000,2020-02-04 10:03:28.000,Travis Comer
+SoHaFebruaryForecast_v2,2018 NWD Unplanned Ops,2018 NWD Unplanned Ops,,,2020-02-01 00:00:00.000,2020-02-04 10:03:24.000,Travis Comer
+SoHaFebruaryForecast_v2,2019 NWD FHM,2019 NWD FHM,,,2020-02-01 00:00:00.000,2020-02-04 10:03:34.000,Travis Comer
+SoHaFebruaryForecast_v2,2019 NWD Unplanned 3PG,2019 NWD Unplanned 3PG,,,2020-02-01 00:00:00.000,2020-02-04 10:03:31.000,Travis Comer
+SoHaFebruaryForecast_v2,2019 NWD Unplanned Ops,2019 NWD Unplanned Ops,,,2020-02-01 00:00:00.000,2020-02-04 10:03:29.000,Travis Comer
+SoHaFebruaryForecast_v2,Angie,Angie,,Base,2020-02-01 00:00:00.000,2020-02-04 10:01:19.000,Travis Comer
+SoHaFebruaryForecast_v2,Apato 1H,Apato 1H,,,2020-02-01 00:00:00.000,2020-02-04 10:03:13.000,Travis Comer
+SoHaFebruaryForecast_v2,Base FHM,Base FHM,,,2020-02-01 00:00:00.000,2020-02-04 10:03:32.000,Travis Comer
+SoHaFebruaryForecast_v2,Base Unplanned 3PG,Base Unplanned 3PG,,,2020-02-01 00:00:00.000,2020-02-04 10:03:26.000,Travis Comer
+SoHaFebruaryForecast_v2,Base Unplanned Ops,Base Unplanned Ops,,,2020-02-01 00:00:00.000,2020-02-04 10:03:22.000,Travis Comer
+SoHaFebruaryForecast_v2,Blocker,Blocker,,Base,2020-02-01 00:00:00.000,2020-02-04 10:01:21.000,Travis Comer
+SoHaFebruaryForecast_v2,Brookeland,Brookeland,,,2020-02-01 00:00:00.000,2020-02-04 10:01:22.000,Travis Comer
+SoHaFebruaryForecast_v2,Concavenator 2H,Concavenator 2H,,,2020-02-01 00:00:00.000,2020-02-04 10:03:20.000,Travis Comer
+SoHaFebruaryForecast_v2,CW 2015 NWD,CW 2015 NWD,,,2020-02-01 00:00:00.000,2020-02-04 10:01:23.000,Travis Comer
+SoHaFebruaryForecast_v2,CW 2016 NWD,CW 2016 NWD,,,2020-02-01 00:00:00.000,2020-02-04 10:01:25.000,Travis Comer
+SoHaFebruaryForecast_v2,East Carthage,East Carthage,,Base,2020-02-01 00:00:00.000,2020-02-04 10:01:26.000,Travis Comer
+SoHaFebruaryForecast_v2,"Europa 2HB ","Europa 2HB ",,,2020-02-01 00:00:00.000,2020-02-04 10:03:17.000,Travis Comer
+SoHaFebruaryForecast_v2,Europa 3HU,Europa 3HU,,,2020-02-01 00:00:00.000,2020-02-04 10:03:18.000,Travis Comer
+SoHaFebruaryForecast_v2,Fox,Fox,,,2020-02-01 00:00:00.000,2020-02-04 10:01:28.000,Travis Comer
+SoHaFebruaryForecast_v2,Ganymede 1H,Ganymede 1H,,,2020-02-01 00:00:00.000,2020-02-04 10:03:04.000,Travis Comer
+SoHaFebruaryForecast_v2,Ganymede 1HB,Ganymede 1HB,,,2020-02-01 00:00:00.000,2020-02-04 10:03:06.000,Travis Comer
+SoHaFebruaryForecast_v2,Glenwood,Glenwood,,Base,2020-02-01 00:00:00.000,2020-02-04 10:01:29.000,Travis Comer
+SoHaFebruaryForecast_v2,Irritator 1H,Irritator 1H,,,2020-02-01 00:00:00.000,2020-02-04 10:03:14.000,Travis Comer
+SoHaFebruaryForecast_v2,Nash,Nash,,,2020-02-01 00:00:00.000,2020-02-04 10:01:30.000,Travis Comer
+SoHaFebruaryForecast_v2,Oak Hill,Oak Hill,,Base,2020-02-01 00:00:00.000,2020-02-04 10:01:33.000,Travis Comer
+SoHaFebruaryForecast_v2,Pluto 2HR,Pluto 2HR,,,2020-02-01 00:00:00.000,2020-02-04 10:03:16.000,Travis Comer
+SoHaFebruaryForecast_v2,Rhea 1H,Rhea 1H,,,2020-02-01 00:00:00.000,2020-02-04 10:03:07.000,Travis Comer
+SoHaFebruaryForecast_v2,Rhea 1HB,Rhea 1HB,,,2020-02-01 00:00:00.000,2020-02-04 10:03:09.000,Travis Comer
+SoHaFebruaryForecast_v2,Rhea 2HU,Rhea 2HU,,,2020-02-01 00:00:00.000,2020-02-04 10:03:10.000,Travis Comer
+SoHaFebruaryForecast_v2,Stockman,Stockman,,Base,2020-02-01 00:00:00.000,2020-02-04 10:01:36.000,Travis Comer
+SoHaFebruaryForecast_v2,Ttops 2 H B,Ttops 2 H B,,,2020-02-01 00:00:00.000,2020-02-04 10:02:55.000,Travis Comer
+SoHaFebruaryForecast_v2,Walker J 3HB,Walker J 3HB,,,2020-02-01 00:00:00.000,2020-02-04 10:03:11.000,Travis Comer
+SoHaFebruaryForecast_v2,West Carthage,West Carthage,,Base,2020-02-01 00:00:00.000,2020-02-04 10:01:39.000,Travis Comer
+SoHaFebruaryForecast_v2,Woodlawn,Woodlawn,,Base,2020-02-01 00:00:00.000,2020-02-04 10:01:44.000,Travis Comer
+SoHaLEGross,Nelson Hay 1 H,13071342-000,,Base,2020-01-01 00:00:00.000,2020-01-22 15:35:58.000,Travis Comer
+SoHaLEGross,Aclco Hay 1 H,13387002-000,,Base,2020-01-01 00:00:00.000,2020-01-22 15:35:26.000,Travis Comer
+SoHaLEGross,Aclco Hay 2 1 H,13763119-000,,Base,2020-01-01 00:00:00.000,2020-01-22 15:35:53.000,Travis Comer
+SoHaLEGross,Sarge 1 H R,13860389-001,,Base,2020-01-01 00:00:00.000,2020-01-22 15:35:59.000,Travis Comer
+SoHaLEGross,Wombat 1 H,14248578-000,,Base,2020-01-01 00:00:00.000,2020-01-22 15:36:02.000,Travis Comer
+SoHaLEGross,Wombat 2 H,14248579-000,,Base,2020-01-01 00:00:00.000,2020-01-22 15:36:03.000,Travis Comer
+SoHaLEGross,Bandicoot 2 H,14258600-000,,Base,2020-01-01 00:00:00.000,2020-01-22 15:36:05.000,Travis Comer
+SoHaLEGross,Bandicoot 1 H B,14269983-000,,Base,2020-01-01 00:00:00.000,2020-01-22 15:36:04.000,Travis Comer
+SoHaLEGross,Trex 1 H,14295238-000,,Base,2020-01-01 00:00:00.000,2020-01-22 15:36:01.000,Travis Comer
+SoHaLEGross,Walker 1 H,14295819-000,,Base,2020-01-01 00:00:00.000,2020-01-22 15:36:15.000,Travis Comer
+SoHaLEGross,Dino 1 H,14303813-000,,Base,2020-01-01 00:00:00.000,2020-01-22 15:36:06.000,Travis Comer
+SoHaLEGross,Wallaby 2 H,14309276-000,,Base,2020-01-01 00:00:00.000,2020-01-22 15:36:17.000,Travis Comer
+SoHaLEGross,Wallaby 1 H,14309562-000,,Base,2020-01-01 00:00:00.000,2020-01-22 15:36:16.000,Travis Comer
+SoHaLEGross,Taz 2 H,14312669-000,,Base,2020-01-01 00:00:00.000,2020-01-22 15:36:11.000,Travis Comer
+SoHaLEGross,Taz 5 H B,14313648-000,,Base,2020-01-01 00:00:00.000,2020-01-22 15:36:26.000,Travis Comer
+SoHaLEGross,Taz 4 H B,14313869-000,,Base,2020-01-01 00:00:00.000,2020-01-22 15:36:13.000,Travis Comer
+SoHaLEGross,Koala 3 H,14313988-000,,Base,2020-01-01 00:00:00.000,2020-01-22 15:36:20.000,Travis Comer
+SoHaLEGross,Taz 1 H,14316545-000,,Base,2020-01-01 00:00:00.000,2020-01-22 15:36:10.000,Travis Comer
+SoHaLEGross,Taz 3 H,14319343-000,,Base,2020-01-01 00:00:00.000,2020-01-22 15:36:12.000,Travis Comer
+SoHaLEGross,Saber 1 H,14319899-001,,Base,2020-01-01 00:00:00.000,2020-01-22 15:36:09.000,Travis Comer
+SoHaLEGross,Saber 1 H B,14319900-001,,Base,2020-01-01 00:00:00.000,2020-01-22 15:36:10.000,Travis Comer
+SoHaLEGross,Utahraptor 1 H,14322612-001,,Base,2020-01-01 00:00:00.000,2020-01-22 15:36:13.000,Travis Comer
+SoHaLEGross,Utahraptor 1 H B,14322613-001,,Base,2020-01-01 00:00:00.000,2020-01-22 15:36:14.000,Travis Comer
+SoHaLEGross,Koala 5 H,14322672-000,,Base,2020-01-01 00:00:00.000,2020-01-22 15:36:06.000,Travis Comer
+SoHaLEGross,Callisto 1 H,14325314-000,,Base,2020-01-01 00:00:00.000,2020-01-22 15:36:18.000,Travis Comer
+SoHaLEGross,Pluto 1 H,14326646-001,,Base,2020-01-01 00:00:00.000,2020-01-22 15:36:07.000,Travis Comer
+SoHaLEGross,Pluto 1 H B,14326647-001,,Base,2020-01-01 00:00:00.000,2020-01-22 15:36:08.000,Travis Comer
+SoHaLEGross,Gasosaurus 1 H,14340136-001,,Base,2020-01-01 00:00:00.000,2020-01-22 15:36:19.000,Travis Comer
+SoHaLEGross,Sugar Glider 1 H B,14340216-001,,Base,2020-01-01 00:00:00.000,2020-01-22 15:36:26.000,Travis Comer
+SoHaLEGross,Sugar Glider 1 H,14340217-001,,Base,2020-01-01 00:00:00.000,2020-01-22 15:36:25.000,Travis Comer
+SoHaLEGross,Rockies 1 H,14354532-002,,Base,2020-01-01 00:00:00.000,2020-01-22 15:36:23.000,Travis Comer
+SoHaLEGross,Wallaby 4 H B,14364160-000,,2019 NWD,2020-01-01 00:00:00.000,2020-01-22 15:36:36.000,Travis Comer
+SoHaLEGross,Koala 3 H B,14365559-000,,Base,2020-01-01 00:00:00.000,2020-01-22 15:36:21.000,Travis Comer
+SoHaLEGross,Trex 2 H,14365684-000,,Base,2020-01-01 00:00:00.000,2020-01-22 15:36:28.000,Travis Comer
+SoHaLEGross,Trex 2 H B,14365685-000,,Base,2020-01-01 00:00:00.000,2020-01-22 15:36:29.000,Travis Comer
+SoHaLEGross,Koala 6 H B,14367479-000,,Base,2020-01-01 00:00:00.000,2020-01-22 15:36:22.000,Travis Comer
+SoHaLEGross,Wallaby 3 H,14367849-000,,Base,2020-01-01 00:00:00.000,2020-01-22 15:36:32.000,Travis Comer
+SoHaLEGross,Wallaby 3 H B,14368525-000,,Base,2020-01-01 00:00:00.000,2020-01-22 15:36:33.000,Travis Comer
+SoHaLEGross,Velo 1 H,14374279-001,,Base,2020-01-01 00:00:00.000,2020-01-22 15:36:30.000,Travis Comer
+SoHaLEGross,Titan 2 H R,14374999-000,,Base,2020-01-01 00:00:00.000,2020-01-22 15:36:27.000,Travis Comer
+SoHaLEGross,Velo 1 H B,14376193-000,,Base,2020-01-01 00:00:00.000,2020-01-22 15:36:31.000,Travis Comer
+SoHaLEGross,Stego 1 H,14376194-000,,Base,2020-01-01 00:00:00.000,2020-01-22 15:36:24.000,Travis Comer
+SoHaLEGross,Kanga 2 H,14376244-000,,2019 NWD,2020-01-01 00:00:00.000,2020-01-22 15:36:35.000,Travis Comer
+SoHaLEGross,Kanga 2 H B,14376245-000,,2019 NWD,2020-01-01 00:00:00.000,2020-01-22 15:36:35.000,Travis Comer
+SoHaLEGross,Mississippi 1 H,14376246-000,,2019 NWD,2020-01-01 00:00:00.000,2020-01-22 15:36:45.000,Travis Comer
+SoHaLEGross,Proteus 1 H,14379956-000,,Base,2020-01-01 00:00:00.000,2020-01-22 15:36:23.000,Travis Comer
+SoHaLEGross,Koala 2 H,14379960-000,,2019 NWD,2020-01-01 00:00:00.000,2020-01-22 15:36:46.000,Travis Comer
+SoHaLEGross,Wombat 3 H B,14381121-000,,2019 NWD,2020-01-01 00:00:00.000,2020-01-22 15:36:40.000,Travis Comer
+SoHaLEGross,Trex 3 H B,14381815-000,,Base,2020-01-01 00:00:00.000,2020-01-22 15:36:30.000,Travis Comer
+SoHaLEGross,Dracorex 2 H,14384752-000,,Base,2020-01-01 00:00:00.000,2020-01-22 15:36:19.000,Travis Comer
+SoHaLEGross,Dracorex 2 H B,14384753-000,,2019 NWD,2020-01-01 00:00:00.000,2020-01-22 15:36:34.000,Travis Comer
+SoHaLEGross,Sugar Glider 2 H,14385259-000,,2019 NWD,2020-01-01 00:00:00.000,2020-01-22 15:36:39.000,Travis Comer
+SoHaLEGross,Sugar Glider 2 H B,14385419-000,,2019 NWD,2020-01-01 00:00:00.000,2020-01-22 15:36:40.000,Travis Comer
+SoHaLEGross,Titan 2 H B,14396384-000,,2019 NWD,2020-01-01 00:00:00.000,2020-01-22 15:36:37.000,Travis Comer
+SoHaLEGross,Allosaurus 3 H,14402359-000,,2019 NWD,2020-01-01 00:00:00.000,2020-01-22 15:36:41.000,Travis Comer
+SoHaLEGross,Allosaurus 3 H B,14402559-000,,2019 NWD,2020-01-01 00:00:00.000,2020-01-22 15:36:42.000,Travis Comer
+SoHaLEGross,Denali 3 H B,14404208-000,,2019 NWD,2020-01-01 00:00:00.000,2020-01-22 15:36:43.000,Travis Comer
+SoHaLEGross,Ttops 2 H,14404359-000,,2019 NWD,2020-01-01 00:00:00.000,2020-01-22 15:36:44.000,Travis Comer
+SoHaLEGross,Rockies 4 H B,14406376-000,,2019 NWD,2020-01-01 00:00:00.000,2020-01-22 15:36:38.000,Travis Comer
+SoHaLEGross,Bronto 3 H,14412265-000,,2019 NWD,2020-01-01 00:00:00.000,2020-01-22 15:36:49.000,Travis Comer
+SoHaLEGross,Bronto 3 H B,14412447-000,,2019 NWD,2020-01-01 00:00:00.000,2020-01-22 15:36:50.000,Travis Comer
+SoHaLEGross,Pluto 2 H B,14429980-000,,2019 NWD,2020-01-01 00:00:00.000,2020-01-22 15:36:44.000,Travis Comer
+SoHaLEGross,Callisto 2 H B,14443485-000,,2019 NWD,2020-01-01 00:00:00.000,2020-01-22 15:36:48.000,Travis Comer
+SoHaLEGross,Europa 1 H,14452960-000,,2019 NWD,2020-01-01 00:00:00.000,2020-01-22 15:36:48.000,Travis Comer
+SoHaLEGross,Angie,Angie,,Base,2020-01-01 00:00:00.000,2020-01-22 15:35:54.000,Travis Comer
+SoHaLEGross,Blocker,Blocker,,Base,2020-01-01 00:00:00.000,2020-01-22 15:35:55.000,Travis Comer
+SoHaLEGross,CW 2015 NWD,CW 2015 NWD,,,2020-01-01 00:00:00.000,2020-01-22 15:35:56.000,Travis Comer
+SoHaLEGross,CW 2016 NWD,CW 2016 NWD,,,2020-01-01 00:00:00.000,2020-01-22 15:35:56.000,Travis Comer
+SoHaLEGross,East Carthage,East Carthage,,Base,2020-01-01 00:00:00.000,2020-01-22 15:35:57.000,Travis Comer
+SoHaLEGross,Stockman,Stockman,,Base,2020-01-01 00:00:00.000,2020-01-22 15:36:00.000,Travis Comer
+SoHaLEGross,Ttops 2 H B,Ttops 2 H B,,,2020-01-01 00:00:00.000,2020-01-22 15:36:47.000,Travis Comer
+SoHaLEGross,West Carthage,West Carthage,,Base,2020-01-01 00:00:00.000,2020-01-22 15:36:02.000,Travis Comer
+SoHaLENet,Nelson Hay 1 H,13071342-000,,Base,2020-01-01 00:00:00.000,2020-01-13 16:02:05.000,Travis Comer
+SoHaLENet,Aclco Hay 1 H,13387002-000,,Base,2020-01-01 00:00:00.000,2020-01-13 16:01:25.000,Travis Comer
+SoHaLENet,Aclco Hay 2 1 H,13763119-000,,Base,2020-01-01 00:00:00.000,2020-01-13 16:01:28.000,Travis Comer
+SoHaLENet,Sarge 1 H R,13860389-001,,Base,2020-01-01 00:00:00.000,2020-01-13 16:02:13.000,Travis Comer
+SoHaLENet,Wombat 1 H,14248578-000,,Base,2020-01-01 00:00:00.000,2020-01-13 16:02:27.000,Travis Comer
+SoHaLENet,Wombat 2 H,14248579-000,,Base,2020-01-01 00:00:00.000,2020-01-13 16:02:30.000,Travis Comer
+SoHaLENet,Bandicoot 2 H,14258600-000,,Base,2020-01-01 00:00:00.000,2020-01-13 16:02:43.000,Travis Comer
+SoHaLENet,Bandicoot 1 H B,14269983-000,,Base,2020-01-01 00:00:00.000,2020-01-13 16:02:39.000,Travis Comer
+SoHaLENet,Trex 1 H,14295238-000,,Base,2020-01-01 00:00:00.000,2020-01-13 16:02:19.000,Travis Comer
+SoHaLENet,Walker 1 H,14295819-000,,Base,2020-01-01 00:00:00.000,2020-01-13 16:03:20.000,Travis Comer
+SoHaLENet,Dino 1 H,14303813-000,,Base,2020-01-01 00:00:00.000,2020-01-13 16:02:46.000,Travis Comer
+SoHaLENet,Wallaby 2 H,14309276-000,,Base,2020-01-01 00:00:00.000,2020-01-13 16:03:26.000,Travis Comer
+SoHaLENet,Wallaby 1 H,14309562-000,,Base,2020-01-01 00:00:00.000,2020-01-13 16:03:23.000,Travis Comer
+SoHaLENet,Taz 2 H,14312669-000,,Base,2020-01-01 00:00:00.000,2020-01-13 16:03:06.000,Travis Comer
+SoHaLENet,Taz 5 H B,14313648-000,,Base,2020-01-01 00:00:00.000,2020-01-13 16:03:58.000,Travis Comer
+SoHaLENet,Taz 4 H B,14313869-000,,Base,2020-01-01 00:00:00.000,2020-01-13 16:03:11.000,Travis Comer
+SoHaLENet,Koala 3 H,14313988-000,,Base,2020-01-01 00:00:00.000,2020-01-13 16:03:37.000,Travis Comer
+SoHaLENet,Taz 1 H,14316545-000,,Base,2020-01-01 00:00:00.000,2020-01-13 16:03:03.000,Travis Comer
+SoHaLENet,Taz 3 H,14319343-000,,Base,2020-01-01 00:00:00.000,2020-01-13 16:03:09.000,Travis Comer
+SoHaLENet,Saber 1 H,14319899-001,,Base,2020-01-01 00:00:00.000,2020-01-13 16:02:58.000,Travis Comer
+SoHaLENet,Saber 1 H B,14319900-001,,Base,2020-01-01 00:00:00.000,2020-01-13 16:03:00.000,Travis Comer
+SoHaLENet,Utahraptor 1 H,14322612-001,,Base,2020-01-01 00:00:00.000,2020-01-13 16:03:14.000,Travis Comer
+SoHaLENet,Utahraptor 1 H B,14322613-001,,Base,2020-01-01 00:00:00.000,2020-01-13 16:03:17.000,Travis Comer
+SoHaLENet,Koala 5 H,14322672-000,,Base,2020-01-01 00:00:00.000,2020-01-13 16:02:49.000,Travis Comer
+SoHaLENet,Callisto 1 H,14325314-000,,Base,2020-01-01 00:00:00.000,2020-01-13 16:03:28.000,Travis Comer
+SoHaLENet,Pluto 1 H,14326646-001,,Base,2020-01-01 00:00:00.000,2020-01-13 16:02:52.000,Travis Comer
+SoHaLENet,Pluto 1 H B,14326647-001,,Base,2020-01-01 00:00:00.000,2020-01-13 16:02:55.000,Travis Comer
+SoHaLENet,Gasosaurus 1 H,14340136-001,,Base,2020-01-01 00:00:00.000,2020-01-13 16:03:34.000,Travis Comer
+SoHaLENet,Sugar Glider 1 H B,14340216-001,,Base,2020-01-01 00:00:00.000,2020-01-13 16:03:56.000,Travis Comer
+SoHaLENet,Sugar Glider 1 H,14340217-001,,Base,2020-01-01 00:00:00.000,2020-01-13 16:03:53.000,Travis Comer
+SoHaLENet,Rockies 1 H,14354532-002,,Base,2020-01-01 00:00:00.000,2020-01-13 16:03:47.000,Travis Comer
+SoHaLENet,Wallaby 4 H B,14364160-000,,2019 NWD,2020-01-01 00:00:00.000,2020-01-13 16:04:33.000,Travis Comer
+SoHaLENet,Koala 3 H B,14365559-000,,Base,2020-01-01 00:00:00.000,2020-01-13 16:03:39.000,Travis Comer
+SoHaLENet,Trex 2 H,14365684-000,,Base,2020-01-01 00:00:00.000,2020-01-13 16:04:04.000,Travis Comer
+SoHaLENet,Trex 2 H B,14365685-000,,Base,2020-01-01 00:00:00.000,2020-01-13 16:04:07.000,Travis Comer
+SoHaLENet,Koala 6 H B,14367479-000,,Base,2020-01-01 00:00:00.000,2020-01-13 16:03:42.000,Travis Comer
+SoHaLENet,Wallaby 3 H,14367849-000,,Base,2020-01-01 00:00:00.000,2020-01-13 16:04:19.000,Travis Comer
+SoHaLENet,Wallaby 3 H B,14368525-000,,Base,2020-01-01 00:00:00.000,2020-01-13 16:04:22.000,Travis Comer
+SoHaLENet,Velo 1 H,14374279-001,,Base,2020-01-01 00:00:00.000,2020-01-13 16:04:13.000,Travis Comer
+SoHaLENet,Titan 2 H R,14374999-000,,Base,2020-01-01 00:00:00.000,2020-01-13 16:04:01.000,Travis Comer
+SoHaLENet,Velo 1 H B,14376193-000,,Base,2020-01-01 00:00:00.000,2020-01-13 16:04:16.000,Travis Comer
+SoHaLENet,Stego 1 H,14376194-000,,Base,2020-01-01 00:00:00.000,2020-01-13 16:03:50.000,Travis Comer
+SoHaLENet,Kanga 2 H,14376244-000,,2019 NWD,2020-01-01 00:00:00.000,2020-01-13 16:04:27.000,Travis Comer
+SoHaLENet,Kanga 2 H B,14376245-000,,2019 NWD,2020-01-01 00:00:00.000,2020-01-13 16:04:30.000,Travis Comer
+SoHaLENet,Mississippi 1 H,14376246-000,,2019 NWD,2020-01-01 00:00:00.000,2020-01-13 16:05:03.000,Travis Comer
+SoHaLENet,Proteus 1 H,14379956-000,,Base,2020-01-01 00:00:00.000,2020-01-13 16:03:45.000,Travis Comer
+SoHaLENet,Koala 2 H,14379960-000,,2019 NWD,2020-01-01 00:00:00.000,2020-01-13 16:05:06.000,Travis Comer
+SoHaLENet,Wombat 3 H B,14381121-000,,2019 NWD,2020-01-01 00:00:00.000,2020-01-13 16:04:47.000,Travis Comer
+SoHaLENet,Trex 3 H B,14381815-000,,Base,2020-01-01 00:00:00.000,2020-01-13 16:04:11.000,Travis Comer
+SoHaLENet,Dracorex 2 H,14384752-000,,Base,2020-01-01 00:00:00.000,2020-01-13 16:03:31.000,Travis Comer
+SoHaLENet,Dracorex 2 H B,14384753-000,,2019 NWD,2020-01-01 00:00:00.000,2020-01-13 16:04:24.000,Travis Comer
+SoHaLENet,Sugar Glider 2 H,14385259-000,,2019 NWD,2020-01-01 00:00:00.000,2020-01-13 16:04:41.000,Travis Comer
+SoHaLENet,Sugar Glider 2 H B,14385419-000,,2019 NWD,2020-01-01 00:00:00.000,2020-01-13 16:04:44.000,Travis Comer
+SoHaLENet,Titan 2 H B,14396384-000,,2019 NWD,2020-01-01 00:00:00.000,2020-01-13 16:04:36.000,Travis Comer
+SoHaLENet,Allosaurus 3 H,14402359-000,,2019 NWD,2020-01-01 00:00:00.000,2020-01-13 16:04:50.000,Travis Comer
+SoHaLENet,Allosaurus 3 H B,14402559-000,,2019 NWD,2020-01-01 00:00:00.000,2020-01-13 16:04:52.000,Travis Comer
+SoHaLENet,Denali 3 H B,14404208-000,,2019 NWD,2020-01-01 00:00:00.000,2020-01-13 16:04:55.000,Travis Comer
+SoHaLENet,Ttops 2 H,14404359-000,,2019 NWD,2020-01-01 00:00:00.000,2020-01-13 16:04:58.000,Travis Comer
+SoHaLENet,Rockies 4 H B,14406376-000,,2019 NWD,2020-01-01 00:00:00.000,2020-01-13 16:04:38.000,Travis Comer
+SoHaLENet,Bronto 3 H,14412265-000,,2019 NWD,2020-01-01 00:00:00.000,2020-01-13 16:05:18.000,Travis Comer
+SoHaLENet,Bronto 3 H B,14412447-000,,2019 NWD,2020-01-01 00:00:00.000,2020-01-13 16:05:21.000,Travis Comer
+SoHaLENet,Pluto 2 H B,14429980-000,,2019 NWD,2020-01-01 00:00:00.000,2020-01-13 16:05:01.000,Travis Comer
+SoHaLENet,Callisto 2 H B,14443485-000,,2019 NWD,2020-01-01 00:00:00.000,2020-01-13 16:05:12.000,Travis Comer
+SoHaLENet,Europa 1 H,14452960-000,,2019 NWD,2020-01-01 00:00:00.000,2020-01-13 16:05:15.000,Travis Comer
+SoHaLENet,Angie,Angie,,Base,2020-01-01 00:00:00.000,2020-01-13 16:01:30.000,Travis Comer
+SoHaLENet,Blocker,Blocker,,Base,2020-01-01 00:00:00.000,2020-01-13 16:01:34.000,Travis Comer
+SoHaLENet,Brookeland,Brookeland,,,2020-01-01 00:00:00.000,2020-01-13 16:01:39.000,Travis Comer
+SoHaLENet,CW 2015 NWD,CW 2015 NWD,,,2020-01-01 00:00:00.000,2020-01-13 16:01:42.000,Travis Comer
+SoHaLENet,CW 2016 NWD,CW 2016 NWD,,,2020-01-01 00:00:00.000,2020-01-13 16:01:46.000,Travis Comer
+SoHaLENet,East Carthage,East Carthage,,Base,2020-01-01 00:00:00.000,2020-01-13 16:01:49.000,Travis Comer
+SoHaLENet,Fox,Fox,,,2020-01-01 00:00:00.000,2020-01-13 16:01:55.000,Travis Comer
+SoHaLENet,Glenwood,Glenwood,,Base,2020-01-01 00:00:00.000,2020-01-13 16:01:58.000,Travis Comer
+SoHaLENet,Nash,Nash,,,2020-01-01 00:00:00.000,2020-01-13 16:02:02.000,Travis Comer
+SoHaLENet,Oak Hill,Oak Hill,,Base,2020-01-01 00:00:00.000,2020-01-13 16:02:08.000,Travis Comer
+SoHaLENet,Stockman,Stockman,,Base,2020-01-01 00:00:00.000,2020-01-13 16:02:15.000,Travis Comer
+SoHaLENet,Ttops 2 H B,Ttops 2 H B,,,2020-01-01 00:00:00.000,2020-01-13 16:05:09.000,Travis Comer
+SoHaLENet,West Carthage,West Carthage,,Base,2020-01-01 00:00:00.000,2020-01-13 16:02:21.000,Travis Comer
+SoHaLENet,Woodlawn,Woodlawn,,Base,2020-01-01 00:00:00.000,2020-01-13 16:02:33.000,Travis Comer
+Test Upload From Template,Kanga 2 H B,14376245-000,,2019 NWD,2020-08-01 00:00:00.000,2020-01-23 08:10:32.000,Travis Comer
+Test Upload From Template _NEWell,FakeWell,FakeWell,,,2020-08-01 00:00:00.000,2020-01-23 12:22:45.000,Travis Comer
+Test_Create_From_Forecast_2,Wallaby 4 H B,14364160-000,Travis_Internal_GFOForecast,2019 NWD,2019-09-30 00:00:00.000,2020-01-10 15:02:53.000,Travis Comer
+Test_Create_From_Forecast_2,Kanga 2 H,14376244-000,Travis_Internal_GFOForecast,2019 NWD,2019-09-30 00:00:00.000,2020-01-10 15:02:57.000,Travis Comer
+Test_Create_From_Forecast_2,Kanga 2 H B,14376245-000,Travis_Internal_GFOForecast,2019 NWD,2019-09-30 00:00:00.000,2020-01-10 15:02:58.000,Travis Comer
+Test_Create_From_Forecast_2,Dracorex 2 H B,14384753-000,Travis_Internal_GFOForecast,2019 NWD,2019-09-30 00:00:00.000,2020-01-10 15:02:58.000,Travis Comer
+Test_Create_From_Forecast_2,Sugar Glider 2 H,14385259-000,Travis_Internal_GFOForecast,2019 NWD,2019-09-30 00:00:00.000,2020-01-10 15:02:59.000,Travis Comer
+Test_Create_From_Forecast_2,Sugar Glider 2 H B,14385419-000,Travis_Internal_GFOForecast,2019 NWD,2019-09-30 00:00:00.000,2020-01-10 15:03:00.000,Travis Comer
+Test_Create_From_Forecast_2,Titan 2 H B,14396384-000,Travis_Internal_GFOForecast,2019 NWD,2019-09-30 00:00:00.000,2020-01-10 15:03:00.000,Travis Comer
+Test_Create_From_Forecast_2,Allosaurus 3 H,14402359-000,Travis_Internal_GFOForecast,2019 NWD,2019-09-30 00:00:00.000,2020-01-10 15:03:01.000,Travis Comer
+Test_Create_From_Forecast_2,Angie,Angie,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-10 15:03:02.000,Travis Comer
+Test_Create_From_Forecast_2,Woodlawn,Woodlawn,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-10 15:03:03.000,Travis Comer
+Test_Create_From_LE,Nelson Hay 1 H,13071342-000,Travis_Internal_GFOForecast,2018 NWD,2019-09-30 00:00:00.000,2019-09-30 15:40:20.000,Travis Comer
+Test_Create_From_LE,Aclco Hay 1 H,13387002-000,Travis_Internal_GFOForecast,2018 NWD,2019-09-30 00:00:00.000,2019-09-30 15:40:21.000,Travis Comer
+Test_Create_From_LE,Aclco Hay 2 1 H,13763119-000,Travis_Internal_GFOForecast,2018 NWD,2019-09-30 00:00:00.000,2019-09-30 15:40:21.000,Travis Comer
+Test_Create_From_LE,Sarge 1 H R,13860389-001,Travis_Internal_GFOForecast,2018 NWD,2019-09-30 00:00:00.000,2019-09-30 15:40:22.000,Travis Comer
+Test_Create_From_LE,Wombat 1 H,14248578-000,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2019-09-30 15:40:23.000,Travis Comer
+Test_Create_From_LE,Wombat 2 H,14248579-000,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2019-09-30 15:40:23.000,Travis Comer
+Test_Create_From_LE,Bandicoot 2 H,14258600-000,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2019-09-30 15:40:24.000,Travis Comer
+Test_Create_From_LE,Bandicoot 1 H B,14269983-000,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2019-09-30 15:40:25.000,Travis Comer
+Test_Create_From_LE,Trex 1 H,14295238-000,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2019-09-30 15:40:26.000,Travis Comer
+Test_Create_From_LE,Walker 1 H,14295819-000,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2019-09-30 15:40:26.000,Travis Comer
+Test_Create_From_LE,Dino 1 H,14303813-000,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2019-09-30 15:40:27.000,Travis Comer
+Test_Create_From_LE,Wallaby 2 H,14309276-000,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2019-09-30 15:40:28.000,Travis Comer
+Test_Create_From_LE,Wallaby 1 H,14309562-000,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2019-09-30 15:40:29.000,Travis Comer
+Test_Create_From_LE,Taz 2 H,14312669-000,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2019-09-30 15:40:30.000,Travis Comer
+Test_Create_From_LE,Taz 5 H B,14313648-000,Travis_Internal_GFOForecast,2018 NWD,2019-09-30 00:00:00.000,2019-09-30 15:40:31.000,Travis Comer
+Test_Create_From_LE,Taz 4 H B,14313869-000,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2019-09-30 15:40:32.000,Travis Comer
+Test_Create_From_LE,Koala 3 H,14313988-000,Travis_Internal_GFOForecast,2018 NWD,2019-09-30 00:00:00.000,2019-09-30 15:40:32.000,Travis Comer
+Test_Create_From_LE,Taz 1 H,14316545-000,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2019-09-30 15:40:33.000,Travis Comer
+Test_Create_From_LE,Taz 3 H,14319343-000,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2019-09-30 15:40:34.000,Travis Comer
+Test_Create_From_LE,Saber 1 H,14319899-001,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2019-09-30 15:40:35.000,Travis Comer
+Test_Create_From_LE,Saber 1 H B,14319900-001,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2019-09-30 15:40:36.000,Travis Comer
+Test_Create_From_LE,Utahraptor 1 H,14322612-001,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2019-09-30 15:40:38.000,Travis Comer
+Test_Create_From_LE,Utahraptor 1 H B,14322613-001,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2019-09-30 15:40:39.000,Travis Comer
+Test_Create_From_LE,Koala 5 H,14322672-000,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2019-09-30 15:40:40.000,Travis Comer
+Test_Create_From_LE,Callisto 1 H,14325314-000,Travis_Internal_GFOForecast,2018 NWD,2019-09-30 00:00:00.000,2019-09-30 15:40:41.000,Travis Comer
+Test_Create_From_LE,Pluto 1 H,14326646-001,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2019-09-30 15:40:42.000,Travis Comer
+Test_Create_From_LE,Pluto 1 H B,14326647-001,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2019-09-30 15:40:43.000,Travis Comer
+Test_Create_From_LE,Gasosaurus 1 H,14340136-001,Travis_Internal_GFOForecast,2018 NWD,2019-09-30 00:00:00.000,2019-09-30 15:40:44.000,Travis Comer
+Test_Create_From_LE,Sugar Glider 1 H B,14340216-001,Travis_Internal_GFOForecast,2018 NWD,2019-09-30 00:00:00.000,2019-09-30 15:40:46.000,Travis Comer
+Test_Create_From_LE,Sugar Glider 1 H,14340217-001,Travis_Internal_GFOForecast,2018 NWD,2019-09-30 00:00:00.000,2019-09-30 15:40:47.000,Travis Comer
+Test_Create_From_LE,Rockies 1 H,14354532-002,Travis_Internal_GFOForecast,2018 NWD,2019-09-30 00:00:00.000,2019-09-30 15:40:48.000,Travis Comer
+Test_Create_From_LE,Wallaby 4 H B,14364160-000,Travis_Internal_GFOForecast,2019 NWD,2019-09-30 00:00:00.000,2019-09-30 15:40:49.000,Travis Comer
+Test_Create_From_LE,Koala 3 H B,14365559-000,Travis_Internal_GFOForecast,2018 NWD,2019-09-30 00:00:00.000,2019-09-30 15:40:50.000,Travis Comer
+Test_Create_From_LE,Trex 2 H,14365684-000,Travis_Internal_GFOForecast,2018 NWD,2019-09-30 00:00:00.000,2019-09-30 15:40:52.000,Travis Comer
+Test_Create_From_LE,Trex 2 H B,14365685-000,Travis_Internal_GFOForecast,2018 NWD,2019-09-30 00:00:00.000,2019-09-30 15:40:53.000,Travis Comer
+Test_Create_From_LE,Koala 6 H B,14367479-000,Travis_Internal_GFOForecast,2018 NWD,2019-09-30 00:00:00.000,2019-09-30 15:40:54.000,Travis Comer
+Test_Create_From_LE,Wallaby 3 H,14367849-000,Travis_Internal_GFOForecast,2018 NWD,2019-09-30 00:00:00.000,2019-09-30 15:40:56.000,Travis Comer
+Test_Create_From_LE,Wallaby 3 H B,14368525-000,Travis_Internal_GFOForecast,2018 NWD,2019-09-30 00:00:00.000,2019-09-30 15:40:57.000,Travis Comer
+Test_Create_From_LE,Velo 1 H,14374279-001,Travis_Internal_GFOForecast,2018 NWD,2019-09-30 00:00:00.000,2019-09-30 15:40:59.000,Travis Comer
+Test_Create_From_LE,Titan 2 H R,14374999-000,Travis_Internal_GFOForecast,2018 NWD,2019-09-30 00:00:00.000,2019-09-30 15:41:00.000,Travis Comer
+Test_Create_From_LE,Velo 1 H B,14376193-000,Travis_Internal_GFOForecast,2018 NWD,2019-09-30 00:00:00.000,2019-09-30 15:41:01.000,Travis Comer
+Test_Create_From_LE,Stego 1 H,14376194-000,Travis_Internal_GFOForecast,2018 NWD,2019-09-30 00:00:00.000,2019-09-30 15:41:03.000,Travis Comer
+Test_Create_From_LE,Kanga 2 H,14376244-000,Travis_Internal_GFOForecast,2019 NWD,2019-09-30 00:00:00.000,2019-09-30 15:41:04.000,Travis Comer
+Test_Create_From_LE,Kanga 2 H B,14376245-000,Travis_Internal_GFOForecast,2019 NWD,2019-09-30 00:00:00.000,2019-09-30 15:41:06.000,Travis Comer
+Test_Create_From_LE,Mississippi 1 H,14376246-000,Travis_Internal_GFOForecast,2019 NWD,2019-09-30 00:00:00.000,2019-09-30 15:41:07.000,Travis Comer
+Test_Create_From_LE,Proteus 1 H,14379956-000,Travis_Internal_GFOForecast,2018 NWD,2019-09-30 00:00:00.000,2019-09-30 15:41:09.000,Travis Comer
+Test_Create_From_LE,Wombat 3 H B,14381121-000,Travis_Internal_GFOForecast,2019 NWD,2019-09-30 00:00:00.000,2019-09-30 15:41:11.000,Travis Comer
+Test_Create_From_LE,Trex 3 H B,14381815-000,Travis_Internal_GFOForecast,2018 NWD,2019-09-30 00:00:00.000,2019-09-30 15:41:12.000,Travis Comer
+Test_Create_From_LE,Dracorex 2 H,14384752-000,Travis_Internal_GFOForecast,2018 NWD,2019-09-30 00:00:00.000,2019-09-30 15:41:14.000,Travis Comer
+Test_Create_From_LE,Dracorex 2 H B,14384753-000,Travis_Internal_GFOForecast,2019 NWD,2019-09-30 00:00:00.000,2019-09-30 15:41:16.000,Travis Comer
+Test_Create_From_LE,Sugar Glider 2 H,14385259-000,Travis_Internal_GFOForecast,2019 NWD,2019-09-30 00:00:00.000,2019-09-30 15:41:17.000,Travis Comer
+Test_Create_From_LE,Sugar Glider 2 H B,14385419-000,Travis_Internal_GFOForecast,2019 NWD,2019-09-30 00:00:00.000,2019-09-30 15:41:19.000,Travis Comer
+Test_Create_From_LE,Titan 2 H B,14396384-000,Travis_Internal_GFOForecast,2019 NWD,2019-09-30 00:00:00.000,2019-09-30 15:41:21.000,Travis Comer
+Test_Create_From_LE,Allosaurus 3 H,14402359-000,Travis_Internal_GFOForecast,2019 NWD,2019-09-30 00:00:00.000,2019-09-30 15:41:23.000,Travis Comer
+Test_Create_From_LE,Allosaurus 3 H B,14402559-000,Travis_Internal_GFOForecast,2019 NWD,2019-09-30 00:00:00.000,2019-09-30 15:41:24.000,Travis Comer
+Test_Create_From_LE,Denali 3 H B,14404208-000,Travis_Internal_GFOForecast,2019 NWD,2019-09-30 00:00:00.000,2019-09-30 15:41:26.000,Travis Comer
+Test_Create_From_LE,TTops 2 H,14404359-000,Travis_Internal_GFOForecast,2019 NWD,2019-09-30 00:00:00.000,2019-09-30 15:41:28.000,Travis Comer
+Test_Create_From_LE,Rockies 4 H B,14406376-000,Travis_Internal_GFOForecast,2019 NWD,2019-09-30 00:00:00.000,2019-09-30 15:41:30.000,Travis Comer
+Test_Create_From_LE,Angie,Angie,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2019-09-30 15:41:32.000,Travis Comer
+Test_Create_From_LE,Blocker,Blocker,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2019-09-30 15:41:34.000,Travis Comer
+Test_Create_From_LE,East Carthage,East Carthage,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2019-09-30 15:41:36.000,Travis Comer
+Test_Create_From_LE,Glenwood,Glenwood,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2019-09-30 15:41:38.000,Travis Comer
+Test_Create_From_LE,Oak Hill,Oak Hill,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2019-09-30 15:41:40.000,Travis Comer
+Test_Create_From_LE,Stockman,Stockman,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2019-09-30 15:41:42.000,Travis Comer
+Test_Create_From_LE,West Carthage,West Carthage,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2019-09-30 15:41:44.000,Travis Comer
+Test_Create_From_LE,Woodlawn,Woodlawn,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2019-09-30 15:41:46.000,Travis Comer
+Test_Create_From_LE_2,Nelson Hay 1 H,13071342-000,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-08 10:19:02.000,Travis Comer
+Test_Create_From_LE_2,Aclco Hay 1 H,13387002-000,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-08 10:19:03.000,Travis Comer
+Test_Create_From_LE_2,Aclco Hay 2 1 H,13763119-000,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-08 10:19:03.000,Travis Comer
+Test_Create_From_LE_2,Sarge 1 H R,13860389-001,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-08 10:19:04.000,Travis Comer
+Test_Create_From_LE_2,Wombat 1 H,14248578-000,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-08 10:19:05.000,Travis Comer
+Test_Create_From_LE_2,Wombat 2 H,14248579-000,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-08 10:19:06.000,Travis Comer
+Test_Create_From_LE_2,Bandicoot 2 H,14258600-000,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-08 10:19:06.000,Travis Comer
+Test_Create_From_LE_2,Bandicoot 1 H B,14269983-000,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-08 10:19:07.000,Travis Comer
+Test_Create_From_LE_2,Trex 1 H,14295238-000,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-08 10:19:08.000,Travis Comer
+Test_Create_From_LE_2,Walker 1 H,14295819-000,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-08 10:19:09.000,Travis Comer
+Test_Create_From_LE_2,Dino 1 H,14303813-000,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-08 10:19:10.000,Travis Comer
+Test_Create_From_LE_2,Wallaby 2 H,14309276-000,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-08 10:19:11.000,Travis Comer
+Test_Create_From_LE_2,Wallaby 1 H,14309562-000,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-08 10:19:11.000,Travis Comer
+Test_Create_From_LE_2,Taz 2 H,14312669-000,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-08 10:19:12.000,Travis Comer
+Test_Create_From_LE_2,Taz 5 H B,14313648-000,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-08 10:19:13.000,Travis Comer
+Test_Create_From_LE_2,Taz 4 H B,14313869-000,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-08 10:19:14.000,Travis Comer
+Test_Create_From_LE_2,Koala 3 H,14313988-000,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-08 10:19:15.000,Travis Comer
+Test_Create_From_LE_2,Taz 1 H,14316545-000,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-08 10:19:16.000,Travis Comer
+Test_Create_From_LE_2,Taz 3 H,14319343-000,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-08 10:19:17.000,Travis Comer
+Test_Create_From_LE_2,Saber 1 H,14319899-001,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-08 10:19:18.000,Travis Comer
+Test_Create_From_LE_2,Saber 1 H B,14319900-001,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-08 10:19:19.000,Travis Comer
+Test_Create_From_LE_2,Utahraptor 1 H,14322612-001,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-08 10:19:20.000,Travis Comer
+Test_Create_From_LE_2,Utahraptor 1 H B,14322613-001,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-08 10:19:22.000,Travis Comer
+Test_Create_From_LE_2,Koala 5 H,14322672-000,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-08 10:19:23.000,Travis Comer
+Test_Create_From_LE_2,Callisto 1 H,14325314-000,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-08 10:19:24.000,Travis Comer
+Test_Create_From_LE_2,Pluto 1 H,14326646-001,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-08 10:19:25.000,Travis Comer
+Test_Create_From_LE_2,Pluto 1 H B,14326647-001,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-08 10:19:26.000,Travis Comer
+Test_Create_From_LE_2,Gasosaurus 1 H,14340136-001,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-08 10:19:27.000,Travis Comer
+Test_Create_From_LE_2,Sugar Glider 1 H B,14340216-001,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-08 10:19:29.000,Travis Comer
+Test_Create_From_LE_2,Sugar Glider 1 H,14340217-001,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-08 10:19:30.000,Travis Comer
+Test_Create_From_LE_2,Rockies 1 H,14354532-002,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-08 10:19:31.000,Travis Comer
+Test_Create_From_LE_2,Wallaby 4 H B,14364160-000,Travis_Internal_GFOForecast,2019 NWD,2019-09-30 00:00:00.000,2020-01-08 10:19:33.000,Travis Comer
+Test_Create_From_LE_2,Koala 3 H B,14365559-000,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-08 10:19:34.000,Travis Comer
+Test_Create_From_LE_2,Trex 2 H,14365684-000,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-08 10:19:35.000,Travis Comer
+Test_Create_From_LE_2,Trex 2 H B,14365685-000,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-08 10:19:37.000,Travis Comer
+Test_Create_From_LE_2,Koala 6 H B,14367479-000,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-08 10:19:38.000,Travis Comer
+Test_Create_From_LE_2,Wallaby 3 H,14367849-000,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-08 10:19:39.000,Travis Comer
+Test_Create_From_LE_2,Wallaby 3 H B,14368525-000,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-08 10:19:41.000,Travis Comer
+Test_Create_From_LE_2,Velo 1 H,14374279-001,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-08 10:19:42.000,Travis Comer
+Test_Create_From_LE_2,Titan 2 H R,14374999-000,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-08 10:19:44.000,Travis Comer
+Test_Create_From_LE_2,Velo 1 H B,14376193-000,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-08 10:19:45.000,Travis Comer
+Test_Create_From_LE_2,Stego 1 H,14376194-000,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-08 10:19:47.000,Travis Comer
+Test_Create_From_LE_2,Kanga 2 H,14376244-000,Travis_Internal_GFOForecast,2019 NWD,2019-09-30 00:00:00.000,2020-01-08 10:19:48.000,Travis Comer
+Test_Create_From_LE_2,Kanga 2 H B,14376245-000,Travis_Internal_GFOForecast,2019 NWD,2019-09-30 00:00:00.000,2020-01-08 10:19:50.000,Travis Comer
+Test_Create_From_LE_2,Mississippi 1 H,14376246-000,Travis_Internal_GFOForecast,2019 NWD,2019-09-30 00:00:00.000,2020-01-08 10:19:52.000,Travis Comer
+Test_Create_From_LE_2,Proteus 1 H,14379956-000,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-08 10:19:53.000,Travis Comer
+Test_Create_From_LE_2,Wombat 3 H B,14381121-000,Travis_Internal_GFOForecast,2019 NWD,2019-09-30 00:00:00.000,2020-01-08 10:19:55.000,Travis Comer
+Test_Create_From_LE_2,Trex 3 H B,14381815-000,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-08 10:19:57.000,Travis Comer
+Test_Create_From_LE_2,Dracorex 2 H,14384752-000,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-08 10:19:58.000,Travis Comer
+Test_Create_From_LE_2,Dracorex 2 H B,14384753-000,Travis_Internal_GFOForecast,2019 NWD,2019-09-30 00:00:00.000,2020-01-08 10:20:00.000,Travis Comer
+Test_Create_From_LE_2,Sugar Glider 2 H,14385259-000,Travis_Internal_GFOForecast,2019 NWD,2019-09-30 00:00:00.000,2020-01-08 10:20:02.000,Travis Comer
+Test_Create_From_LE_2,Sugar Glider 2 H B,14385419-000,Travis_Internal_GFOForecast,2019 NWD,2019-09-30 00:00:00.000,2020-01-08 10:20:03.000,Travis Comer
+Test_Create_From_LE_2,Titan 2 H B,14396384-000,Travis_Internal_GFOForecast,2019 NWD,2019-09-30 00:00:00.000,2020-01-08 10:20:05.000,Travis Comer
+Test_Create_From_LE_2,Allosaurus 3 H,14402359-000,Travis_Internal_GFOForecast,2019 NWD,2019-09-30 00:00:00.000,2020-01-08 10:20:07.000,Travis Comer
+Test_Create_From_LE_2,Allosaurus 3 H B,14402559-000,Travis_Internal_GFOForecast,2019 NWD,2019-09-30 00:00:00.000,2020-01-08 10:20:09.000,Travis Comer
+Test_Create_From_LE_2,Denali 3 H B,14404208-000,Travis_Internal_GFOForecast,2019 NWD,2019-09-30 00:00:00.000,2020-01-08 10:20:11.000,Travis Comer
+Test_Create_From_LE_2,TTops 2 H,14404359-000,Travis_Internal_GFOForecast,2019 NWD,2019-09-30 00:00:00.000,2020-01-08 10:20:13.000,Travis Comer
+Test_Create_From_LE_2,Rockies 4 H B,14406376-000,Travis_Internal_GFOForecast,2019 NWD,2019-09-30 00:00:00.000,2020-01-08 10:20:15.000,Travis Comer
+Test_Create_From_LE_2,Angie,Angie,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-08 10:20:17.000,Travis Comer
+Test_Create_From_LE_2,Blocker,Blocker,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-08 10:20:19.000,Travis Comer
+Test_Create_From_LE_2,East Carthage,East Carthage,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-08 10:20:21.000,Travis Comer
+Test_Create_From_LE_2,Glenwood,Glenwood,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-08 10:20:23.000,Travis Comer
+Test_Create_From_LE_2,Oak Hill,Oak Hill,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-08 10:20:26.000,Travis Comer
+Test_Create_From_LE_2,Stockman,Stockman,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-08 10:20:28.000,Travis Comer
+Test_Create_From_LE_2,West Carthage,West Carthage,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-08 10:20:30.000,Travis Comer
+Test_Create_From_LE_2,Woodlawn,Woodlawn,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-08 10:20:32.000,Travis Comer
+Test_Create_From_LE_67,Nelson Hay 1 H,13071342-000,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-15 09:12:14.000,Travis Comer
+Test_Create_From_LE_67,Aclco Hay 1 H,13387002-000,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-15 09:12:15.000,Travis Comer
+Test_Create_From_LE_67,Aclco Hay 2 1 H,13763119-000,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-15 09:12:16.000,Travis Comer
+Test_Create_From_LE_67,Sarge 1 H R,13860389-001,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-15 09:12:16.000,Travis Comer
+Test_Create_From_LE_67,Wombat 1 H,14248578-000,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-15 09:12:17.000,Travis Comer
+Test_Create_From_LE_67,Wombat 2 H,14248579-000,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-15 09:12:18.000,Travis Comer
+Test_Create_From_LE_67,Bandicoot 2 H,14258600-000,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-15 09:12:19.000,Travis Comer
+Test_Create_From_LE_67,Bandicoot 1 H B,14269983-000,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-15 09:12:20.000,Travis Comer
+Test_Create_From_LE_67,Trex 1 H,14295238-000,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-15 09:12:21.000,Travis Comer
+Test_Create_From_LE_67,Walker 1 H,14295819-000,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-15 09:12:22.000,Travis Comer
+Test_Create_From_LE_67,Dino 1 H,14303813-000,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-15 09:12:23.000,Travis Comer
+Test_Create_From_LE_67,Wallaby 2 H,14309276-000,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-15 09:12:24.000,Travis Comer
+Test_Create_From_LE_67,Wallaby 1 H,14309562-000,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-15 09:12:25.000,Travis Comer
+Test_Create_From_LE_67,Taz 2 H,14312669-000,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-15 09:12:26.000,Travis Comer
+Test_Create_From_LE_67,Taz 5 H B,14313648-000,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-15 09:12:27.000,Travis Comer
+Test_Create_From_LE_67,Taz 4 H B,14313869-000,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-15 09:12:28.000,Travis Comer
+Test_Create_From_LE_67,Koala 3 H,14313988-000,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-15 09:12:29.000,Travis Comer
+Test_Create_From_LE_67,Taz 1 H,14316545-000,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-15 09:12:30.000,Travis Comer
+Test_Create_From_LE_67,Taz 3 H,14319343-000,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-15 09:12:31.000,Travis Comer
+Test_Create_From_LE_67,Saber 1 H,14319899-001,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-15 09:12:32.000,Travis Comer
+Test_Create_From_LE_67,Saber 1 H B,14319900-001,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-15 09:12:34.000,Travis Comer
+Test_Create_From_LE_67,Utahraptor 1 H,14322612-001,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-15 09:12:35.000,Travis Comer
+Test_Create_From_LE_67,Utahraptor 1 H B,14322613-001,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-15 09:12:36.000,Travis Comer
+Test_Create_From_LE_67,Koala 5 H,14322672-000,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-15 09:12:37.000,Travis Comer
+Test_Create_From_LE_67,Callisto 1 H,14325314-000,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-15 09:12:39.000,Travis Comer
+Test_Create_From_LE_67,Pluto 1 H,14326646-001,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-15 09:12:41.000,Travis Comer
+Test_Create_From_LE_67,Pluto 1 H B,14326647-001,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-15 09:12:42.000,Travis Comer
+Test_Create_From_LE_67,Gasosaurus 1 H,14340136-001,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-15 09:12:44.000,Travis Comer
+Test_Create_From_LE_67,Sugar Glider 1 H B,14340216-001,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-15 09:12:45.000,Travis Comer
+Test_Create_From_LE_67,Sugar Glider 1 H,14340217-001,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-15 09:12:47.000,Travis Comer
+Test_Create_From_LE_67,Rockies 1 H,14354532-002,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-15 09:12:48.000,Travis Comer
+Test_Create_From_LE_67,Wallaby 4 H B,14364160-000,Travis_Internal_GFOForecast,2019 NWD,2019-09-30 00:00:00.000,2020-01-15 09:12:50.000,Travis Comer
+Test_Create_From_LE_67,Koala 3 H B,14365559-000,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-15 09:12:51.000,Travis Comer
+Test_Create_From_LE_67,Trex 2 H,14365684-000,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-15 09:12:53.000,Travis Comer
+Test_Create_From_LE_67,Trex 2 H B,14365685-000,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-15 09:12:54.000,Travis Comer
+Test_Create_From_LE_67,Koala 6 H B,14367479-000,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-15 09:12:56.000,Travis Comer
+Test_Create_From_LE_67,Wallaby 3 H,14367849-000,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-15 09:12:57.000,Travis Comer
+Test_Create_From_LE_67,Wallaby 3 H B,14368525-000,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-15 09:12:59.000,Travis Comer
+Test_Create_From_LE_67,Velo 1 H,14374279-001,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-15 09:13:01.000,Travis Comer
+Test_Create_From_LE_67,Titan 2 H R,14374999-000,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-15 09:13:02.000,Travis Comer
+Test_Create_From_LE_67,Velo 1 H B,14376193-000,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-15 09:13:04.000,Travis Comer
+Test_Create_From_LE_67,Stego 1 H,14376194-000,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-15 09:13:06.000,Travis Comer
+Test_Create_From_LE_67,Kanga 2 H,14376244-000,Travis_Internal_GFOForecast,2019 NWD,2019-09-30 00:00:00.000,2020-01-15 09:13:08.000,Travis Comer
+Test_Create_From_LE_67,Kanga 2 H B,14376245-000,Travis_Internal_GFOForecast,2019 NWD,2019-09-30 00:00:00.000,2020-01-15 09:13:10.000,Travis Comer
+Test_Create_From_LE_67,Mississippi 1 H,14376246-000,Travis_Internal_GFOForecast,2019 NWD,2019-09-30 00:00:00.000,2020-01-15 09:13:12.000,Travis Comer
+Test_Create_From_LE_67,Proteus 1 H,14379956-000,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-15 09:13:14.000,Travis Comer
+Test_Create_From_LE_67,Wombat 3 H B,14381121-000,Travis_Internal_GFOForecast,2019 NWD,2019-09-30 00:00:00.000,2020-01-15 09:13:15.000,Travis Comer
+Test_Create_From_LE_67,Trex 3 H B,14381815-000,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-15 09:13:17.000,Travis Comer
+Test_Create_From_LE_67,Dracorex 2 H,14384752-000,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-15 09:13:19.000,Travis Comer
+Test_Create_From_LE_67,Dracorex 2 H B,14384753-000,Travis_Internal_GFOForecast,2019 NWD,2019-09-30 00:00:00.000,2020-01-15 09:13:21.000,Travis Comer
+Test_Create_From_LE_67,Sugar Glider 2 H,14385259-000,Travis_Internal_GFOForecast,2019 NWD,2019-09-30 00:00:00.000,2020-01-15 09:13:23.000,Travis Comer
+Test_Create_From_LE_67,Sugar Glider 2 H B,14385419-000,Travis_Internal_GFOForecast,2019 NWD,2019-09-30 00:00:00.000,2020-01-15 09:13:25.000,Travis Comer
+Test_Create_From_LE_67,Titan 2 H B,14396384-000,Travis_Internal_GFOForecast,2019 NWD,2019-09-30 00:00:00.000,2020-01-15 09:13:27.000,Travis Comer
+Test_Create_From_LE_67,Allosaurus 3 H,14402359-000,Travis_Internal_GFOForecast,2019 NWD,2019-09-30 00:00:00.000,2020-01-15 09:13:29.000,Travis Comer
+Test_Create_From_LE_67,Allosaurus 3 H B,14402559-000,Travis_Internal_GFOForecast,2019 NWD,2019-09-30 00:00:00.000,2020-01-15 09:13:31.000,Travis Comer
+Test_Create_From_LE_67,Denali 3 H B,14404208-000,Travis_Internal_GFOForecast,2019 NWD,2019-09-30 00:00:00.000,2020-01-15 09:13:33.000,Travis Comer
+Test_Create_From_LE_67,TTops 2 H,14404359-000,Travis_Internal_GFOForecast,2019 NWD,2019-09-30 00:00:00.000,2020-01-15 09:13:36.000,Travis Comer
+Test_Create_From_LE_67,Rockies 4 H B,14406376-000,Travis_Internal_GFOForecast,2019 NWD,2019-09-30 00:00:00.000,2020-01-15 09:13:38.000,Travis Comer
+Test_Create_From_LE_67,Angie,Angie,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-15 09:13:40.000,Travis Comer
+Test_Create_From_LE_67,Blocker,Blocker,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-15 09:13:42.000,Travis Comer
+Test_Create_From_LE_67,East Carthage,East Carthage,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-15 09:13:44.000,Travis Comer
+Test_Create_From_LE_67,Glenwood,Glenwood,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-15 09:13:47.000,Travis Comer
+Test_Create_From_LE_67,Oak Hill,Oak Hill,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-15 09:13:49.000,Travis Comer
+Test_Create_From_LE_67,Stockman,Stockman,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-15 09:13:51.000,Travis Comer
+Test_Create_From_LE_67,West Carthage,West Carthage,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-15 09:13:54.000,Travis Comer
+Test_Create_From_LE_67,Woodlawn,Woodlawn,Travis_Internal_GFOForecast,Base,2019-09-30 00:00:00.000,2020-01-15 09:13:56.000,Travis Comer
+Test_Create_Total_July,Nelson Hay 1 H,13071342-000,Travis_Internal_GFOForecast,2018 NWD,2019-07-22 00:00:00.000,2019-09-26 15:43:44.000,Travis Comer
+Test_Create_Total_July,Aclco Hay 1 H,13387002-000,Travis_Internal_GFOForecast,2018 NWD,2019-07-22 00:00:00.000,2019-09-26 15:43:45.000,Travis Comer
+Test_Create_Total_July,Aclco Hay 2 1 H,13763119-000,Travis_Internal_GFOForecast,2018 NWD,2019-07-22 00:00:00.000,2019-09-26 15:43:46.000,Travis Comer
+Test_Create_Total_July,Sarge 1 H R,13860389-001,Travis_Internal_GFOForecast,2018 NWD,2019-07-22 00:00:00.000,2019-09-26 15:43:46.000,Travis Comer
+Test_Create_Total_July,Wombat 1 H,14248578-000,Travis_Internal_GFOForecast,Base,2019-07-22 00:00:00.000,2019-09-26 15:43:47.000,Travis Comer
+Test_Create_Total_July,Wombat 2 H,14248579-000,Travis_Internal_GFOForecast,Base,2019-07-22 00:00:00.000,2019-09-26 15:43:47.000,Travis Comer
+Test_Create_Total_July,Bandicoot 2 H,14258600-000,Travis_Internal_GFOForecast,Base,2019-07-22 00:00:00.000,2019-09-26 15:43:48.000,Travis Comer
+Test_Create_Total_July,Bandicoot 1 H B,14269983-000,Travis_Internal_GFOForecast,Base,2019-07-22 00:00:00.000,2019-09-26 15:43:49.000,Travis Comer
+Test_Create_Total_July,Trex 1 H,14295238-000,Travis_Internal_GFOForecast,Base,2019-07-22 00:00:00.000,2019-09-26 15:43:49.000,Travis Comer
+Test_Create_Total_July,Walker 1 H,14295819-000,Travis_Internal_GFOForecast,Base,2019-07-22 00:00:00.000,2019-09-26 15:43:50.000,Travis Comer
+Test_Create_Total_July,Dino 1 H,14303813-000,Travis_Internal_GFOForecast,Base,2019-07-22 00:00:00.000,2019-09-26 15:43:50.000,Travis Comer
+Test_Create_Total_July,Wallaby 2 H,14309276-000,Travis_Internal_GFOForecast,Base,2019-07-22 00:00:00.000,2019-09-26 15:43:51.000,Travis Comer
+Test_Create_Total_July,Wallaby 1 H,14309562-000,Travis_Internal_GFOForecast,Base,2019-07-22 00:00:00.000,2019-09-26 15:43:51.000,Travis Comer
+Test_Create_Total_July,Taz 2 H,14312669-000,Travis_Internal_GFOForecast,Base,2019-07-22 00:00:00.000,2019-09-26 15:43:52.000,Travis Comer
+Test_Create_Total_July,Taz 5 H B,14313648-000,Travis_Internal_GFOForecast,2018 NWD,2019-07-22 00:00:00.000,2019-09-26 15:43:53.000,Travis Comer
+Test_Create_Total_July,Taz 4 H B,14313869-000,Travis_Internal_GFOForecast,Base,2019-07-22 00:00:00.000,2019-09-26 15:43:53.000,Travis Comer
+Test_Create_Total_July,Koala 3 H,14313988-000,Travis_Internal_GFOForecast,2018 NWD,2019-07-22 00:00:00.000,2019-09-26 15:43:54.000,Travis Comer
+Test_Create_Total_July,Taz 1 H,14316545-000,Travis_Internal_GFOForecast,Base,2019-07-22 00:00:00.000,2019-09-26 15:43:54.000,Travis Comer
+Test_Create_Total_July,Taz 3 H,14319343-000,Travis_Internal_GFOForecast,Base,2019-07-22 00:00:00.000,2019-09-26 15:43:55.000,Travis Comer
+Test_Create_Total_July,Saber 1 H,14319899-001,Travis_Internal_GFOForecast,Base,2019-07-22 00:00:00.000,2019-09-26 15:43:56.000,Travis Comer
+Test_Create_Total_July,Saber 1 H B,14319900-001,Travis_Internal_GFOForecast,Base,2019-07-22 00:00:00.000,2019-09-26 15:43:56.000,Travis Comer
+Test_Create_Total_July,Utahraptor 1 H,14322612-001,Travis_Internal_GFOForecast,Base,2019-07-22 00:00:00.000,2019-09-26 15:43:57.000,Travis Comer
+Test_Create_Total_July,Utahraptor 1 H B,14322613-001,Travis_Internal_GFOForecast,Base,2019-07-22 00:00:00.000,2019-09-26 15:43:58.000,Travis Comer
+Test_Create_Total_July,Koala 5 H,14322672-000,Travis_Internal_GFOForecast,Base,2019-07-22 00:00:00.000,2019-09-26 15:43:58.000,Travis Comer
+Test_Create_Total_July,Callisto 1 H,14325314-000,Travis_Internal_GFOForecast,2018 NWD,2019-07-22 00:00:00.000,2019-09-26 15:43:59.000,Travis Comer
+Test_Create_Total_July,Pluto 1 H,14326646-001,Travis_Internal_GFOForecast,Base,2019-07-22 00:00:00.000,2019-09-26 15:43:59.000,Travis Comer
+Test_Create_Total_July,Pluto 1 H B,14326647-001,Travis_Internal_GFOForecast,Base,2019-07-22 00:00:00.000,2019-09-26 15:44:00.000,Travis Comer
+Test_Create_Total_July,Gasosaurus 1 H,14340136-001,Travis_Internal_GFOForecast,2018 NWD,2019-07-22 00:00:00.000,2019-09-26 15:44:00.000,Travis Comer
+Test_Create_Total_July,Sugar Glider 1 H B,14340216-001,Travis_Internal_GFOForecast,2018 NWD,2019-07-22 00:00:00.000,2019-09-26 15:44:01.000,Travis Comer
+Test_Create_Total_July,Sugar Glider 1 H,14340217-001,Travis_Internal_GFOForecast,2018 NWD,2019-07-22 00:00:00.000,2019-09-26 15:44:02.000,Travis Comer
+Test_Create_Total_July,Rockies 1 H,14354532-002,Travis_Internal_GFOForecast,2018 NWD,2019-07-22 00:00:00.000,2019-09-26 15:44:02.000,Travis Comer
+Test_Create_Total_July,Wallaby 4 H B,14364160-000,Travis_Internal_GFOForecast,2019 NWD,2019-07-22 00:00:00.000,2019-09-26 15:44:03.000,Travis Comer
+Test_Create_Total_July,Koala 3 H B,14365559-000,Travis_Internal_GFOForecast,2018 NWD,2019-07-22 00:00:00.000,2019-09-26 15:44:03.000,Travis Comer
+Test_Create_Total_July,Trex 2 H,14365684-000,Travis_Internal_GFOForecast,2018 NWD,2019-07-22 00:00:00.000,2019-09-26 15:44:04.000,Travis Comer
+Test_Create_Total_July,Trex 2 H B,14365685-000,Travis_Internal_GFOForecast,2018 NWD,2019-07-22 00:00:00.000,2019-09-26 15:44:04.000,Travis Comer
+Test_Create_Total_July,Koala 6 H B,14367479-000,Travis_Internal_GFOForecast,2018 NWD,2019-07-22 00:00:00.000,2019-09-26 15:44:05.000,Travis Comer
+Test_Create_Total_July,Wallaby 3 H,14367849-000,Travis_Internal_GFOForecast,2018 NWD,2019-07-22 00:00:00.000,2019-09-26 15:44:06.000,Travis Comer
+Test_Create_Total_July,Wallaby 3 H B,14368525-000,Travis_Internal_GFOForecast,2018 NWD,2019-07-22 00:00:00.000,2019-09-26 15:44:06.000,Travis Comer
+Test_Create_Total_July,Velo 1 H,14374279-001,Travis_Internal_GFOForecast,2018 NWD,2019-07-22 00:00:00.000,2019-09-26 15:44:07.000,Travis Comer
+Test_Create_Total_July,Titan 2 H R,14374999-000,Travis_Internal_GFOForecast,2018 NWD,2019-07-22 00:00:00.000,2019-09-26 15:44:07.000,Travis Comer
+Test_Create_Total_July,Velo 1 H B,14376193-000,Travis_Internal_GFOForecast,2018 NWD,2019-07-22 00:00:00.000,2019-09-26 15:44:08.000,Travis Comer
+Test_Create_Total_July,Stego 1 H,14376194-000,Travis_Internal_GFOForecast,2018 NWD,2019-07-22 00:00:00.000,2019-09-26 15:44:08.000,Travis Comer
+Test_Create_Total_July,Kanga 2 H,14376244-000,Travis_Internal_GFOForecast,2019 NWD,2019-07-22 00:00:00.000,2019-09-26 15:44:09.000,Travis Comer
+Test_Create_Total_July,Kanga 2 H B,14376245-000,Travis_Internal_GFOForecast,2019 NWD,2019-07-22 00:00:00.000,2019-09-26 15:44:10.000,Travis Comer
+Test_Create_Total_July,Mississippi 1 H,14376246-000,Travis_Internal_GFOForecast,2019 NWD,2019-07-22 00:00:00.000,2019-09-26 15:44:10.000,Travis Comer
+Test_Create_Total_July,Proteus 1 H,14379956-000,Travis_Internal_GFOForecast,2018 NWD,2019-07-22 00:00:00.000,2019-09-26 15:44:11.000,Travis Comer
+Test_Create_Total_July,Wombat 3 H B,14381121-000,Travis_Internal_GFOForecast,2019 NWD,2019-07-22 00:00:00.000,2019-09-26 15:44:11.000,Travis Comer
+Test_Create_Total_July,Trex 3 H B,14381815-000,Travis_Internal_GFOForecast,2018 NWD,2019-07-22 00:00:00.000,2019-09-26 15:44:12.000,Travis Comer
+Test_Create_Total_July,Dracorex 2 H,14384752-000,Travis_Internal_GFOForecast,2018 NWD,2019-07-22 00:00:00.000,2019-09-26 15:44:13.000,Travis Comer
+Test_Create_Total_July,Dracorex 2 H B,14384753-000,Travis_Internal_GFOForecast,2019 NWD,2019-07-22 00:00:00.000,2019-09-26 15:44:13.000,Travis Comer
+Test_Create_Total_July,Sugar Glider 2 H,14385259-000,Travis_Internal_GFOForecast,2019 NWD,2019-07-22 00:00:00.000,2019-09-26 15:44:14.000,Travis Comer
+Test_Create_Total_July,Sugar Glider 2 H B,14385419-000,Travis_Internal_GFOForecast,2019 NWD,2019-07-22 00:00:00.000,2019-09-26 15:44:14.000,Travis Comer
+Test_Create_Total_July,Titan 2 H B,14396384-000,Travis_Internal_GFOForecast,2019 NWD,2019-07-22 00:00:00.000,2019-09-26 15:44:15.000,Travis Comer
+Test_Create_Total_July,Allosaurus 3 H,14402359-000,Travis_Internal_GFOForecast,2019 NWD,2019-07-22 00:00:00.000,2019-09-26 15:44:15.000,Travis Comer
+Test_Create_Total_July,Allosaurus 3 H B,14402559-000,Travis_Internal_GFOForecast,2019 NWD,2019-07-22 00:00:00.000,2019-09-26 15:44:16.000,Travis Comer
+Test_Create_Total_July,Denali 3 H B,14404208-000,Travis_Internal_GFOForecast,2019 NWD,2019-07-22 00:00:00.000,2019-09-26 15:44:17.000,Travis Comer
+Test_Create_Total_July,TTops 2 H,14404359-000,Travis_Internal_GFOForecast,2019 NWD,2019-07-22 00:00:00.000,2019-09-26 15:44:17.000,Travis Comer
+Test_Create_Total_July,Rockies 4 H B,14406376-000,Travis_Internal_GFOForecast,2019 NWD,2019-07-22 00:00:00.000,2019-09-26 15:44:18.000,Travis Comer
+Test_Create_Total_July,Angie,Angie,Travis_Internal_GFOForecast,Base,2019-07-22 00:00:00.000,2019-09-26 15:44:18.000,Travis Comer
+Test_Create_Total_July,Blocker,Blocker,Travis_Internal_GFOForecast,Base,2019-07-22 00:00:00.000,2019-09-26 15:44:44.000,Travis Comer
+Test_Create_Total_July,East Carthage,East Carthage,Travis_Internal_GFOForecast,Base,2019-07-22 00:00:00.000,2019-09-26 15:45:19.000,Travis Comer
+Test_Create_Total_July,Glenwood,Glenwood,Travis_Internal_GFOForecast,Base,2019-07-22 00:00:00.000,2019-09-26 15:45:42.000,Travis Comer
+Test_Create_Total_July,Oak Hill,Oak Hill,Travis_Internal_GFOForecast,Base,2019-07-22 00:00:00.000,2019-09-26 15:45:53.000,Travis Comer
+Test_Create_Total_July,Stockman,Stockman,Travis_Internal_GFOForecast,Base,2019-07-22 00:00:00.000,2019-09-26 15:46:16.000,Travis Comer
+Test_Create_Total_July,West Carthage,West Carthage,Travis_Internal_GFOForecast,Base,2019-07-22 00:00:00.000,2019-09-26 15:47:25.000,Travis Comer
+Test_Create_Total_July,Woodlawn,Woodlawn,Travis_Internal_GFOForecast,Base,2019-07-22 00:00:00.000,2019-09-26 15:47:26.000,Travis Comer

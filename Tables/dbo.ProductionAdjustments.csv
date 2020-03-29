@@ -1,0 +1,7 @@
+LEName,WellName,CorpID,AdjustedGasProduction,AdjustedOilProduction,AdjustedWaterProduction,Date_Key,Update_Date,Update_User
+Test_Create_Total_July,Sarge 1 H R,13860389-001,666,0,0,2019-07-01 00:00:00.000,2019-10-30 00:00:00.000,Travis Comer
+Test_Create_Total_July,Sarge 1 H R,13860389-001,666,0,0,2019-07-02 00:00:00.000,2020-01-08 08:47:06.000,Travis Comer
+Test_Create_Total_July,Sarge 1 H R,13860389-001,666,0,0,2019-07-03 00:00:00.000,2020-01-08 08:47:13.000,Travis Comer
+Test_Create_Total_July,Sarge 1 H R,13860389-001,666,0,0,2019-07-04 00:00:00.000,2020-01-08 08:47:13.000,Travis Comer
+Test_Create_Total_July,Sarge 1 H R,13860389-001,666,0,0,2019-07-05 00:00:00.000,2020-01-08 08:47:13.000,Travis Comer
+Test_Create_Total_July,Sarge 1 H R,13860389-001,666,0,0,2019-07-06 00:00:00.000,2020-01-08 08:47:13.000,Travis Comer

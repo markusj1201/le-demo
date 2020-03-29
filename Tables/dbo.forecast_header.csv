@@ -1,0 +1,282 @@
+WellName,CorpID,ForecastName,GFOz,GFOzYear,Aries_ScenarioID,DCA_b,DCA_Di,DCA_qi,Update_Date,Update_User
+Wallaby 4 H B,14364160-000,Aries_GFOz,1,2019-01-01 00:00:00.000,JA_HV,0,0,0,2019-09-20 10:50:30.000,Travis Comer
+Kanga 2 H,14376244-000,Aries_GFOz,1,2019-01-01 00:00:00.000,JA_HV,0,0,0,2019-09-20 10:51:48.000,Travis Comer
+Kanga 2 H B,14376245-000,Aries_GFOz,1,2019-01-01 00:00:00.000,JA_HV,0,0,0,2019-09-20 10:48:23.000,Travis Comer
+Dracorex 2 H B,14384753-000,Aries_GFOz,1,2019-01-01 00:00:00.000,JA_HV,0,0,0,2019-09-20 10:49:14.000,Travis Comer
+Sugar Glider 2 H,14385259-000,Aries_GFOz,1,2019-01-01 00:00:00.000,JA_HV,0,0,0,2019-09-20 10:49:39.000,Travis Comer
+Sugar Glider 2 H B,14385419-000,Aries_GFOz,1,2019-01-01 00:00:00.000,JA_HV,0,0,0,2019-09-20 10:47:57.000,Travis Comer
+Titan 2 H B,14396384-000,Aries_GFOz,1,2019-01-01 00:00:00.000,JA_HV,0,0,0,2019-09-20 10:48:48.000,Travis Comer
+Allosaurus 3 H,14402359-000,Aries_GFOz,1,2019-01-01 00:00:00.000,JA_HV,0,0,0,2019-09-20 10:50:56.000,Travis Comer
+Allosaurus 3 H B,14402559-000,Aries_GFOz,1,2019-01-01 00:00:00.000,JA_HV,0,0,0,2019-09-20 10:47:32.000,Travis Comer
+Denali 3 H B,14404208-000,Aries_GFOz,1,2019-01-01 00:00:00.000,JA_HV,0,0,0,2019-09-20 10:50:05.000,Travis Comer
+TTops 2 H,14404359-000,Aries_GFOz,1,2019-01-01 00:00:00.000,JA_HV,0,0,0,2019-09-20 10:47:06.000,Travis Comer
+Rockies 4 H B,14406376-000,Aries_GFOz,1,2019-01-01 00:00:00.000,JA_HV,0,0,0,2019-09-20 10:51:22.000,Travis Comer
+Nelson Hay 1 H,13071342-000,Test Upload From Excel,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-13 16:10:06.000,Travis Comer
+Aclco Hay 1 H,13387002-000,Test Upload From Excel,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-13 16:08:36.000,Travis Comer
+Aclco Hay 2 1 H,13763119-000,Test Upload From Excel,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-13 16:08:44.000,Travis Comer
+Sarge 1 H R,13860389-001,Test Upload From Excel,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-13 16:10:22.000,Travis Comer
+Wombat 1 H,14248578-000,Test Upload From Excel,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-13 16:10:54.000,Travis Comer
+Wombat 2 H,14248579-000,Test Upload From Excel,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-13 16:11:03.000,Travis Comer
+Bandicoot 2 H,14258600-000,Test Upload From Excel,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-13 16:11:27.000,Travis Comer
+Bandicoot 1 H B,14269983-000,Test Upload From Excel,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-13 16:11:19.000,Travis Comer
+Trex 1 H,14295238-000,Test Upload From Excel,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-13 16:10:38.000,Travis Comer
+Walker 1 H,14295819-000,Test Upload From Excel,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-13 16:13:11.000,Travis Comer
+Dino 1 H,14303813-000,Test Upload From Excel,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-13 16:11:36.000,Travis Comer
+Wallaby 2 H,14309276-000,Test Upload From Excel,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-13 16:13:27.000,Travis Comer
+Wallaby 1 H,14309562-000,Test Upload From Excel,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-13 16:13:19.000,Travis Comer
+Taz 2 H,14312669-000,Test Upload From Excel,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-13 16:12:31.000,Travis Comer
+Taz 5 H B,14313648-000,Test Upload From Excel,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-13 16:15:02.000,Travis Comer
+Taz 4 H B,14313869-000,Test Upload From Excel,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-13 16:12:47.000,Travis Comer
+Koala 3 H,14313988-000,Test Upload From Excel,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-13 16:13:59.000,Travis Comer
+Taz 1 H,14316545-000,Test Upload From Excel,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-13 16:12:23.000,Travis Comer
+Taz 3 H,14319343-000,Test Upload From Excel,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-13 16:12:39.000,Travis Comer
+Saber 1 H,14319899-001,Test Upload From Excel,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-13 16:12:07.000,Travis Comer
+Saber 1 H B,14319900-001,Test Upload From Excel,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-13 16:12:15.000,Travis Comer
+Utahraptor 1 H,14322612-001,Test Upload From Excel,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-13 16:12:55.000,Travis Comer
+Utahraptor 1 H B,14322613-001,Test Upload From Excel,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-13 16:13:03.000,Travis Comer
+Koala 5 H,14322672-000,Test Upload From Excel,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-13 16:11:44.000,Travis Comer
+Callisto 1 H,14325314-000,Test Upload From Excel,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-13 16:13:35.000,Travis Comer
+Pluto 1 H,14326646-001,Test Upload From Excel,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-13 16:11:52.000,Travis Comer
+Pluto 1 H B,14326647-001,Test Upload From Excel,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-13 16:12:00.000,Travis Comer
+Gasosaurus 1 H,14340136-001,Test Upload From Excel,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-13 16:13:51.000,Travis Comer
+Sugar Glider 1 H B,14340216-001,Test Upload From Excel,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-13 16:14:54.000,Travis Comer
+Sugar Glider 1 H,14340217-001,Test Upload From Excel,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-13 16:14:47.000,Travis Comer
+Rockies 1 H,14354532-002,Test Upload From Excel,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-13 16:14:31.000,Travis Comer
+Wallaby 4 H B,14364160-000,Test Upload From Excel,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-13 16:16:40.000,Travis Comer
+Koala 3 H B,14365559-000,Test Upload From Excel,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-13 16:14:07.000,Travis Comer
+Trex 2 H,14365684-000,Test Upload From Excel,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-13 16:15:18.000,Travis Comer
+Trex 2 H B,14365685-000,Test Upload From Excel,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-13 16:15:26.000,Travis Comer
+Koala 6 H B,14367479-000,Test Upload From Excel,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-13 16:14:15.000,Travis Comer
+Wallaby 3 H,14367849-000,Test Upload From Excel,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-13 16:15:58.000,Travis Comer
+Wallaby 3 H B,14368525-000,Test Upload From Excel,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-13 16:16:06.000,Travis Comer
+Velo 1 H,14374279-001,Test Upload From Excel,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-13 16:15:42.000,Travis Comer
+Titan 2 H R,14374999-000,Test Upload From Excel,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-13 16:15:10.000,Travis Comer
+Velo 1 H B,14376193-000,Test Upload From Excel,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-13 16:15:50.000,Travis Comer
+Stego 1 H,14376194-000,Test Upload From Excel,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-13 16:14:39.000,Travis Comer
+Kanga 2 H,14376244-000,Test Upload From Excel,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-13 16:16:25.000,Travis Comer
+Kanga 2 H B,14376245-000,Test Upload From Excel,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-13 16:16:32.000,Travis Comer
+Mississippi 1 H,14376246-000,Test Upload From Excel,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-13 16:18:07.000,Travis Comer
+Proteus 1 H,14379956-000,Test Upload From Excel,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-13 16:14:23.000,Travis Comer
+Koala 2 H,14379960-000,Test Upload From Excel,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-13 16:18:14.000,Travis Comer
+Wombat 3 H B,14381121-000,Test Upload From Excel,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-13 16:17:19.000,Travis Comer
+Trex 3 H B,14381815-000,Test Upload From Excel,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-13 16:15:34.000,Travis Comer
+Dracorex 2 H,14384752-000,Test Upload From Excel,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-13 16:13:43.000,Travis Comer
+Dracorex 2 H B,14384753-000,Test Upload From Excel,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-13 16:16:16.000,Travis Comer
+Sugar Glider 2 H,14385259-000,Test Upload From Excel,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-13 16:17:04.000,Travis Comer
+Sugar Glider 2 H B,14385419-000,Test Upload From Excel,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-13 16:17:12.000,Travis Comer
+Titan 2 H B,14396384-000,Test Upload From Excel,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-13 16:16:48.000,Travis Comer
+Allosaurus 3 H,14402359-000,Test Upload From Excel,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-13 16:17:27.000,Travis Comer
+Allosaurus 3 H B,14402559-000,Test Upload From Excel,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-13 16:17:35.000,Travis Comer
+Denali 3 H B,14404208-000,Test Upload From Excel,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-13 16:17:43.000,Travis Comer
+Ttops 2 H,14404359-000,Test Upload From Excel,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-13 16:17:51.000,Travis Comer
+Rockies 4 H B,14406376-000,Test Upload From Excel,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-13 16:16:56.000,Travis Comer
+Bronto 3 H,14412265-000,Test Upload From Excel,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-13 16:18:46.000,Travis Comer
+Bronto 3 H B,14412447-000,Test Upload From Excel,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-13 16:18:54.000,Travis Comer
+Pluto 2 H B,14429980-000,Test Upload From Excel,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-13 16:17:59.000,Travis Comer
+Callisto 2 H B,14443485-000,Test Upload From Excel,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-13 16:18:30.000,Travis Comer
+Roo 2 H,14448851-000,Test Upload From Excel,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-13 16:19:01.000,Travis Comer
+Europa 1 H,14452960-000,Test Upload From Excel,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-13 16:18:38.000,Travis Comer
+Angie,Angie,Test Upload From Excel,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-13 16:08:53.000,Travis Comer
+Apato 1H,Apato 1H,Test Upload From Excel,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-13 16:20:04.000,Travis Comer
+Blocker,Blocker,Test Upload From Excel,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-13 16:09:01.000,Travis Comer
+Brookeland,Brookeland,Test Upload From Excel,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-13 16:09:09.000,Travis Comer
+Concavenator 2H,Concavenator 2H,Test Upload From Excel,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-13 16:20:43.000,Travis Comer
+CW 2015 NWD,CW 2015 NWD,Test Upload From Excel,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-13 16:09:17.000,Travis Comer
+CW 2016 NWD,CW 2016 NWD,Test Upload From Excel,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-13 16:09:25.000,Travis Comer
+Dracorex 1H,Dracorex 1H,Test Upload From Excel,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-13 16:19:09.000,Travis Comer
+East Carthage,East Carthage,Test Upload From Excel,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-13 16:09:33.000,Travis Comer
+"Europa 2HB ","Europa 2HB ",Test Upload From Excel,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-13 16:20:27.000,Travis Comer
+Europa 3HU,Europa 3HU,Test Upload From Excel,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-13 16:20:35.000,Travis Comer
+Fox,Fox,Test Upload From Excel,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-13 16:09:41.000,Travis Comer
+Ganymede 1H,Ganymede 1H,Test Upload From Excel,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-13 16:19:17.000,Travis Comer
+Ganymede 1HB,Ganymede 1HB,Test Upload From Excel,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-13 16:19:25.000,Travis Comer
+Glenwood,Glenwood,Test Upload From Excel,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-13 16:09:49.000,Travis Comer
+Irritator 1H,Irritator 1H,Test Upload From Excel,1,2020-01-01 00:00:00.000,,0,0,0,2020-01-13 16:20:12.000,Travis Comer
+Nash,Nash,Test Upload From Excel,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-13 16:09:57.000,Travis Comer
+Oak Hill,Oak Hill,Test Upload From Excel,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-13 16:10:14.000,Travis Comer
+Pluto 2HR,Pluto 2HR,Test Upload From Excel,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-13 16:20:20.000,Travis Comer
+Rhea 1H,Rhea 1H,Test Upload From Excel,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-13 16:19:33.000,Travis Comer
+Rhea 1HB,Rhea 1HB,Test Upload From Excel,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-13 16:19:41.000,Travis Comer
+Rhea 2HU,Rhea 2HU,Test Upload From Excel,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-13 16:19:49.000,Travis Comer
+Stockman,Stockman,Test Upload From Excel,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-13 16:10:30.000,Travis Comer
+Ttops 2 H B,Ttops 2 H B,Test Upload From Excel,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-13 16:18:22.000,Travis Comer
+Walker J 3HB,Walker J 3HB,Test Upload From Excel,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-13 16:19:56.000,Travis Comer
+West Carthage,West Carthage,Test Upload From Excel,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-13 16:10:46.000,Travis Comer
+Woodlawn,Woodlawn,Test Upload From Excel,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-13 16:11:11.000,Travis Comer
+Nelson Hay 1 H,13071342-000,Test Upload From Excel Again,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-22 14:05:16.000,Travis Comer
+Aclco Hay 1 H,13387002-000,Test Upload From Excel Again,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-22 14:04:12.000,Travis Comer
+Aclco Hay 2 1 H,13763119-000,Test Upload From Excel Again,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-22 14:04:18.000,Travis Comer
+Sarge 1 H R,13860389-001,Test Upload From Excel Again,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-22 14:05:28.000,Travis Comer
+Wombat 1 H,14248578-000,Test Upload From Excel Again,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-22 14:05:51.000,Travis Comer
+Wombat 2 H,14248579-000,Test Upload From Excel Again,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-22 14:05:56.000,Travis Comer
+Bandicoot 2 H,14258600-000,Test Upload From Excel Again,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-22 14:06:14.000,Travis Comer
+Bandicoot 1 H B,14269983-000,Test Upload From Excel Again,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-22 14:06:08.000,Travis Comer
+Trex 1 H,14295238-000,Test Upload From Excel Again,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-22 14:05:39.000,Travis Comer
+Walker 1 H,14295819-000,Test Upload From Excel Again,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-22 14:07:30.000,Travis Comer
+Dino 1 H,14303813-000,Test Upload From Excel Again,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-22 14:06:19.000,Travis Comer
+Wallaby 2 H,14309276-000,Test Upload From Excel Again,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-22 14:07:41.000,Travis Comer
+Wallaby 1 H,14309562-000,Test Upload From Excel Again,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-22 14:07:36.000,Travis Comer
+Taz 2 H,14312669-000,Test Upload From Excel Again,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-22 14:07:01.000,Travis Comer
+Taz 5 H B,14313648-000,Test Upload From Excel Again,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-22 14:08:52.000,Travis Comer
+Taz 4 H B,14313869-000,Test Upload From Excel Again,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-22 14:07:13.000,Travis Comer
+Koala 3 H,14313988-000,Test Upload From Excel Again,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-22 14:08:04.000,Travis Comer
+Taz 1 H,14316545-000,Test Upload From Excel Again,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-22 14:06:55.000,Travis Comer
+Taz 3 H,14319343-000,Test Upload From Excel Again,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-22 14:07:07.000,Travis Comer
+Saber 1 H,14319899-001,Test Upload From Excel Again,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-22 14:06:43.000,Travis Comer
+Saber 1 H B,14319900-001,Test Upload From Excel Again,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-22 14:06:49.000,Travis Comer
+Utahraptor 1 H,14322612-001,Test Upload From Excel Again,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-22 14:07:18.000,Travis Comer
+Utahraptor 1 H B,14322613-001,Test Upload From Excel Again,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-22 14:07:24.000,Travis Comer
+Koala 5 H,14322672-000,Test Upload From Excel Again,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-22 14:06:25.000,Travis Comer
+Callisto 1 H,14325314-000,Test Upload From Excel Again,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-22 14:07:47.000,Travis Comer
+Pluto 1 H,14326646-001,Test Upload From Excel Again,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-22 14:06:31.000,Travis Comer
+Pluto 1 H B,14326647-001,Test Upload From Excel Again,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-22 14:06:37.000,Travis Comer
+Gasosaurus 1 H,14340136-001,Test Upload From Excel Again,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-22 14:07:59.000,Travis Comer
+Sugar Glider 1 H B,14340216-001,Test Upload From Excel Again,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-22 14:08:46.000,Travis Comer
+Sugar Glider 1 H,14340217-001,Test Upload From Excel Again,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-22 14:08:40.000,Travis Comer
+Rockies 1 H,14354532-002,Test Upload From Excel Again,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-22 14:08:28.000,Travis Comer
+Wallaby 4 H B,14364160-000,Test Upload From Excel Again,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-22 14:10:03.000,Travis Comer
+Koala 3 H B,14365559-000,Test Upload From Excel Again,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-22 14:08:11.000,Travis Comer
+Trex 2 H,14365684-000,Test Upload From Excel Again,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-22 14:09:04.000,Travis Comer
+Trex 2 H B,14365685-000,Test Upload From Excel Again,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-22 14:09:10.000,Travis Comer
+Koala 6 H B,14367479-000,Test Upload From Excel Again,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-22 14:08:17.000,Travis Comer
+Wallaby 3 H,14367849-000,Test Upload From Excel Again,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-22 14:09:34.000,Travis Comer
+Wallaby 3 H B,14368525-000,Test Upload From Excel Again,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-22 14:09:40.000,Travis Comer
+Velo 1 H,14374279-001,Test Upload From Excel Again,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-22 14:09:22.000,Travis Comer
+Titan 2 H R,14374999-000,Test Upload From Excel Again,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-22 14:08:58.000,Travis Comer
+Velo 1 H B,14376193-000,Test Upload From Excel Again,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-22 14:09:28.000,Travis Comer
+Stego 1 H,14376194-000,Test Upload From Excel Again,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-22 14:08:34.000,Travis Comer
+Kanga 2 H,14376244-000,Test Upload From Excel Again,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-22 14:09:51.000,Travis Comer
+Kanga 2 H B,14376245-000,Test Upload From Excel Again,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-22 14:09:57.000,Travis Comer
+Mississippi 1 H,14376246-000,Test Upload From Excel Again,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-22 14:11:07.000,Travis Comer
+Proteus 1 H,14379956-000,Test Upload From Excel Again,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-22 14:08:22.000,Travis Comer
+Koala 2 H,14379960-000,Test Upload From Excel Again,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-22 14:11:13.000,Travis Comer
+Wombat 3 H B,14381121-000,Test Upload From Excel Again,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-22 14:10:32.000,Travis Comer
+Trex 3 H B,14381815-000,Test Upload From Excel Again,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-22 14:09:16.000,Travis Comer
+Dracorex 2 H,14384752-000,Test Upload From Excel Again,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-22 14:07:53.000,Travis Comer
+Dracorex 2 H B,14384753-000,Test Upload From Excel Again,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-22 14:09:46.000,Travis Comer
+Sugar Glider 2 H,14385259-000,Test Upload From Excel Again,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-22 14:10:20.000,Travis Comer
+Sugar Glider 2 H B,14385419-000,Test Upload From Excel Again,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-22 14:10:26.000,Travis Comer
+Titan 2 H B,14396384-000,Test Upload From Excel Again,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-22 14:10:09.000,Travis Comer
+Allosaurus 3 H,14402359-000,Test Upload From Excel Again,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-22 14:10:38.000,Travis Comer
+Allosaurus 3 H B,14402559-000,Test Upload From Excel Again,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-22 14:10:43.000,Travis Comer
+Denali 3 H B,14404208-000,Test Upload From Excel Again,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-22 14:10:49.000,Travis Comer
+Ttops 2 H,14404359-000,Test Upload From Excel Again,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-22 14:10:55.000,Travis Comer
+Rockies 4 H B,14406376-000,Test Upload From Excel Again,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-22 14:10:14.000,Travis Comer
+Bronto 3 H,14412265-000,Test Upload From Excel Again,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-22 14:11:35.000,Travis Comer
+Bronto 3 H B,14412447-000,Test Upload From Excel Again,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-22 14:11:41.000,Travis Comer
+Pluto 2 H B,14429980-000,Test Upload From Excel Again,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-22 14:11:01.000,Travis Comer
+Callisto 2 H B,14443485-000,Test Upload From Excel Again,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-22 14:11:24.000,Travis Comer
+Roo 2 H,14448851-000,Test Upload From Excel Again,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-22 14:11:47.000,Travis Comer
+Europa 1 H,14452960-000,Test Upload From Excel Again,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-22 14:11:30.000,Travis Comer
+Angie,Angie,Test Upload From Excel Again,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-22 14:04:24.000,Travis Comer
+Apato 1H,Apato 1H,Test Upload From Excel Again,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-22 14:12:32.000,Travis Comer
+Blocker,Blocker,Test Upload From Excel Again,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-22 14:04:30.000,Travis Comer
+Brookeland,Brookeland,Test Upload From Excel Again,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-22 14:04:36.000,Travis Comer
+Concavenator 2H,Concavenator 2H,Test Upload From Excel Again,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-22 14:13:00.000,Travis Comer
+CW 2015 NWD,CW 2015 NWD,Test Upload From Excel Again,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-22 14:04:42.000,Travis Comer
+CW 2016 NWD,CW 2016 NWD,Test Upload From Excel Again,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-22 14:04:48.000,Travis Comer
+Dracorex 1H,Dracorex 1H,Test Upload From Excel Again,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-22 14:11:53.000,Travis Comer
+East Carthage,East Carthage,Test Upload From Excel Again,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-22 14:04:54.000,Travis Comer
+"Europa 2HB ","Europa 2HB ",Test Upload From Excel Again,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-22 14:12:49.000,Travis Comer
+Europa 3HU,Europa 3HU,Test Upload From Excel Again,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-22 14:12:55.000,Travis Comer
+Fox,Fox,Test Upload From Excel Again,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-22 14:04:59.000,Travis Comer
+Ganymede 1H,Ganymede 1H,Test Upload From Excel Again,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-22 14:11:58.000,Travis Comer
+Ganymede 1HB,Ganymede 1HB,Test Upload From Excel Again,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-22 14:12:04.000,Travis Comer
+Glenwood,Glenwood,Test Upload From Excel Again,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-22 14:05:05.000,Travis Comer
+Irritator 1H,Irritator 1H,Test Upload From Excel Again,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-22 14:12:38.000,Travis Comer
+Nash,Nash,Test Upload From Excel Again,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-22 14:05:11.000,Travis Comer
+Oak Hill,Oak Hill,Test Upload From Excel Again,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-22 14:05:22.000,Travis Comer
+Pluto 2HR,Pluto 2HR,Test Upload From Excel Again,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-22 14:12:43.000,Travis Comer
+Rhea 1H,Rhea 1H,Test Upload From Excel Again,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-22 14:12:09.000,Travis Comer
+Rhea 1HB,Rhea 1HB,Test Upload From Excel Again,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-22 14:12:15.000,Travis Comer
+Rhea 2HU,Rhea 2HU,Test Upload From Excel Again,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-22 14:12:21.000,Travis Comer
+Stockman,Stockman,Test Upload From Excel Again,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-22 14:05:34.000,Travis Comer
+Ttops 2 H B,Ttops 2 H B,Test Upload From Excel Again,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-22 14:11:18.000,Travis Comer
+Walker J 3HB,Walker J 3HB,Test Upload From Excel Again,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-22 14:12:26.000,Travis Comer
+West Carthage,West Carthage,Test Upload From Excel Again,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-22 14:05:45.000,Travis Comer
+Woodlawn,Woodlawn,Test Upload From Excel Again,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-22 14:06:02.000,Travis Comer
+Kanga 2 H B,14376245-000,Test Upload From Template,0,2020-01-01 00:00:00.000,,0,0,0,2020-01-23 07:35:06.000,Travis Comer
+Nelson Hay 1 H,13071342-000,Travis_Internal_GFOForecast,1,2019-01-01 00:00:00.000,,0,0,0,2019-09-20 12:44:37.000,Travis Comer
+Aclco Hay 1 H,13387002-000,Travis_Internal_GFOForecast,1,2019-01-01 00:00:00.000,,0,0,0,2019-09-20 12:50:20.000,Travis Comer
+Aclco Hay 2 1 H,13763119-000,Travis_Internal_GFOForecast,1,2019-01-01 00:00:00.000,,0,0,0,2019-09-20 12:47:40.000,Travis Comer
+Sarge 1 H R,13860389-001,Travis_Internal_GFOForecast,1,2019-01-01 00:00:00.000,,0,0,0,2019-09-20 12:48:00.000,Travis Comer
+Wombat 1 H,14248578-000,Travis_Internal_GFOForecast,1,2019-01-01 00:00:00.000,,0,0,0,2019-09-20 12:40:45.000,Travis Comer
+Wombat 2 H,14248579-000,Travis_Internal_GFOForecast,1,2019-01-01 00:00:00.000,,0,0,0,2019-09-20 12:52:25.000,Travis Comer
+Bandicoot 2 H,14258600-000,Travis_Internal_GFOForecast,1,2019-01-01 00:00:00.000,,0,0,0,2019-09-20 12:41:36.000,Travis Comer
+Bandicoot 1 H B,14269983-000,Travis_Internal_GFOForecast,1,2019-01-01 00:00:00.000,,0,0,0,2019-09-20 12:45:29.000,Travis Comer
+Trex 1 H,14295238-000,Travis_Internal_GFOForecast,1,2019-01-01 00:00:00.000,,0,0,0,2019-09-20 12:51:55.000,Travis Comer
+Walker 1 H,14295819-000,Travis_Internal_GFOForecast,1,2019-01-01 00:00:00.000,,0,0,0,2019-09-20 12:39:47.000,Travis Comer
+Dino 1 H,14303813-000,Travis_Internal_GFOForecast,1,2019-01-01 00:00:00.000,,0,0,0,2019-09-20 12:46:27.000,Travis Comer
+Wallaby 2 H,14309276-000,Travis_Internal_GFOForecast,1,2019-01-01 00:00:00.000,,0,0,0,2019-09-20 12:44:26.000,Travis Comer
+Wallaby 1 H,14309562-000,Travis_Internal_GFOForecast,1,2019-01-01 00:00:00.000,,0,0,0,2019-09-20 12:45:57.000,Travis Comer
+Taz 2 H,14312669-000,Travis_Internal_GFOForecast,1,2019-01-01 00:00:00.000,,0,0,0,2019-09-20 12:50:00.000,Travis Comer
+Taz 5 H B,14313648-000,Travis_Internal_GFOForecast,1,2019-01-01 00:00:00.000,,0,0,0,2019-09-20 12:50:10.000,Travis Comer
+Taz 4 H B,14313869-000,Travis_Internal_GFOForecast,1,2019-01-01 00:00:00.000,,0,0,0,2019-09-20 12:46:47.000,Travis Comer
+Koala 3 H,14313988-000,Travis_Internal_GFOForecast,1,2019-01-01 00:00:00.000,,0,0,0,2019-09-20 12:41:05.000,Travis Comer
+Taz 1 H,14316545-000,Travis_Internal_GFOForecast,1,2019-01-01 00:00:00.000,,0,0,0,2019-09-20 12:49:29.000,Travis Comer
+Taz 3 H,14319343-000,Travis_Internal_GFOForecast,1,2019-01-01 00:00:00.000,,0,0,0,2019-09-20 12:43:24.000,Travis Comer
+Saber 1 H,14319899-001,Travis_Internal_GFOForecast,1,2019-01-01 00:00:00.000,,0,0,0,2019-09-20 12:51:45.000,Travis Comer
+Saber 1 H B,14319900-001,Travis_Internal_GFOForecast,1,2019-01-01 00:00:00.000,,0,0,0,2019-09-20 12:39:27.000,Travis Comer
+Utahraptor 1 H,14322612-001,Travis_Internal_GFOForecast,1,2019-01-01 00:00:00.000,,0,0,0,2019-09-20 12:38:57.000,Travis Comer
+Utahraptor 1 H B,14322613-001,Travis_Internal_GFOForecast,1,2019-01-01 00:00:00.000,,0,0,0,2019-09-20 12:39:07.000,Travis Comer
+Koala 5 H,14322672-000,Travis_Internal_GFOForecast,1,2019-01-01 00:00:00.000,,0,0,0,2019-09-20 12:41:16.000,Travis Comer
+Callisto 1 H,14325314-000,Travis_Internal_GFOForecast,1,2019-01-01 00:00:00.000,,0,0,0,2019-09-20 12:42:08.000,Travis Comer
+Pluto 1 H,14326646-001,Travis_Internal_GFOForecast,1,2019-01-01 00:00:00.000,,0,0,0,2019-09-20 12:44:14.000,Travis Comer
+Pluto 1 H B,14326647-001,Travis_Internal_GFOForecast,1,2019-01-01 00:00:00.000,,0,0,0,2019-09-20 12:46:07.000,Travis Comer
+Gasosaurus 1 H,14340136-001,Travis_Internal_GFOForecast,1,2019-01-01 00:00:00.000,,0,0,0,2019-09-20 12:47:50.000,Travis Comer
+Sugar Glider 1 H B,14340216-001,Travis_Internal_GFOForecast,1,2019-01-01 00:00:00.000,,0,0,0,2019-09-20 12:51:26.000,Travis Comer
+Sugar Glider 1 H,14340217-001,Travis_Internal_GFOForecast,1,2019-01-01 00:00:00.000,,0,0,0,2019-09-20 12:48:58.000,Travis Comer
+Rockies 1 H,14354532-002,Travis_Internal_GFOForecast,1,2019-01-01 00:00:00.000,,0,0,0,2019-09-20 12:39:17.000,Travis Comer
+Wallaby 4 H B,14364160-000,Travis_Internal_GFOForecast,1,2019-01-01 00:00:00.000,,0,0,0,2019-09-20 12:46:37.000,Travis Comer
+Koala 3 H B,14365559-000,Travis_Internal_GFOForecast,1,2019-01-01 00:00:00.000,,0,0,0,2019-09-20 12:51:35.000,Travis Comer
+Trex 2 H,14365684-000,Travis_Internal_GFOForecast,1,2019-01-01 00:00:00.000,,0,0,0,2019-09-20 12:38:47.000,Travis Comer
+Trex 2 H B,14365685-000,Travis_Internal_GFOForecast,1,2019-01-01 00:00:00.000,,0,0,0,2019-09-20 12:46:17.000,Travis Comer
+Koala 6 H B,14367479-000,Travis_Internal_GFOForecast,1,2019-01-01 00:00:00.000,,0,0,0,2019-09-20 12:47:30.000,Travis Comer
+Wallaby 3 H,14367849-000,Travis_Internal_GFOForecast,1,2019-01-01 00:00:00.000,,0,0,0,2019-09-20 12:47:09.000,Travis Comer
+Wallaby 3 H B,14368525-000,Travis_Internal_GFOForecast,1,2019-01-01 00:00:00.000,,0,0,0,2019-09-20 12:40:35.000,Travis Comer
+Velo 1 H,14374279-001,Travis_Internal_GFOForecast,1,2019-01-01 00:00:00.000,,0,0,0,2019-09-20 12:52:15.000,Travis Comer
+Titan 2 H R,14374999-000,Travis_Internal_GFOForecast,1,2019-01-01 00:00:00.000,,0,0,0,2019-09-20 12:41:26.000,Travis Comer
+Velo 1 H B,14376193-000,Travis_Internal_GFOForecast,1,2019-01-01 00:00:00.000,,0,0,0,2019-09-20 12:43:15.000,Travis Comer
+Stego 1 H,14376194-000,Travis_Internal_GFOForecast,1,2019-01-01 00:00:00.000,,0,0,0,2019-09-20 12:45:19.000,Travis Comer
+Kanga 2 H,14376244-000,Travis_Internal_GFOForecast,1,2019-01-01 00:00:00.000,,0,0,0,2019-09-20 12:48:20.000,Travis Comer
+Kanga 2 H B,14376245-000,Travis_Internal_GFOForecast,1,2019-01-01 00:00:00.000,,0,0,0,2019-09-20 12:51:16.000,Travis Comer
+Mississippi 1 H,14376246-000,Travis_Internal_GFOForecast,1,2019-01-01 00:00:00.000,,0,0,0,2019-09-20 12:50:40.000,Travis Comer
+Proteus 1 H,14379956-000,Travis_Internal_GFOForecast,1,2019-01-01 00:00:00.000,,0,0,0,2019-09-20 12:50:58.000,Travis Comer
+Wombat 3 H B,14381121-000,Travis_Internal_GFOForecast,1,2019-01-01 00:00:00.000,,0,0,0,2019-09-20 12:49:39.000,Travis Comer
+Trex 3 H B,14381815-000,Travis_Internal_GFOForecast,1,2019-01-01 00:00:00.000,,0,0,0,2019-09-20 12:43:34.000,Travis Comer
+Dracorex 2 H,14384752-000,Travis_Internal_GFOForecast,1,2019-01-01 00:00:00.000,,0,0,0,2019-09-20 12:41:46.000,Travis Comer
+Dracorex 2 H B,14384753-000,Travis_Internal_GFOForecast,1,2019-01-01 00:00:00.000,,0,0,0,2019-09-20 12:45:47.000,Travis Comer
+Sugar Glider 2 H,14385259-000,Travis_Internal_GFOForecast,1,2019-01-01 00:00:00.000,,0,0,0,2019-09-20 12:38:37.000,Travis Comer
+Sugar Glider 2 H B,14385419-000,Travis_Internal_GFOForecast,1,2019-01-01 00:00:00.000,,0,0,0,2019-09-20 12:44:48.000,Travis Comer
+Titan 2 H B,14396384-000,Travis_Internal_GFOForecast,1,2019-01-01 00:00:00.000,,0,0,0,2019-09-20 12:46:58.000,Travis Comer
+Allosaurus 3 H,14402359-000,Travis_Internal_GFOForecast,1,2019-01-01 00:00:00.000,,0,0,0,2019-09-20 12:43:54.000,Travis Comer
+Allosaurus 3 H B,14402559-000,Travis_Internal_GFOForecast,1,2019-01-01 00:00:00.000,,0,0,0,2019-09-20 12:45:08.000,Travis Comer
+Denali 3 H B,14404208-000,Travis_Internal_GFOForecast,1,2019-01-01 00:00:00.000,,0,0,0,2019-09-20 12:39:57.000,Travis Comer
+Ttops 2 H,14404359-000,Travis_Internal_GFOForecast,1,2019-01-01 00:00:00.000,,0,0,0,2019-09-20 12:48:10.000,Travis Comer
+Rockies 4 H B,14406376-000,Travis_Internal_GFOForecast,1,2019-01-01 00:00:00.000,,0,0,0,2019-09-20 12:49:09.000,Travis Comer
+Angie,Angie,Travis_Internal_GFOForecast,1,2019-01-01 00:00:00.000,,0,0,0,2019-09-20 12:40:55.000,Travis Comer
+Apato 1 H,Apato 1 H,Travis_Internal_GFOForecast,1,2019-01-01 00:00:00.000,,0,0,0,2019-09-20 12:51:08.000,Travis Comer
+Apato 2 H,Apato 2 H,Travis_Internal_GFOForecast,1,2019-01-01 00:00:00.000,,0,0,0,2019-09-20 12:42:18.000,Travis Comer
+Blocker,Blocker,Travis_Internal_GFOForecast,1,2019-01-01 00:00:00.000,,0,0,0,2019-09-20 12:42:28.000,Travis Comer
+Bronto 3 H,Bronto 3 H,Travis_Internal_GFOForecast,1,2019-01-01 00:00:00.000,,0,0,0,2019-09-20 12:42:37.000,Travis Comer
+Bronto 3 H B,Bronto 3 H B,Travis_Internal_GFOForecast,1,2019-01-01 00:00:00.000,,0,0,0,2019-09-20 12:44:04.000,Travis Comer
+CW 2015 NWD,CW 2015 NWD,Travis_Internal_GFOForecast,1,2019-01-01 00:00:00.000,,0,0,0,2019-09-20 12:47:20.000,Travis Comer
+CW 2016 NWD,CW 2016 NWD,Travis_Internal_GFOForecast,1,2019-01-01 00:00:00.000,,0,0,0,2019-09-20 12:42:46.000,Travis Comer
+Denali 3 H,Denali 3 H,Travis_Internal_GFOForecast,1,2019-01-01 00:00:00.000,,0,0,0,2019-09-20 12:48:48.000,Travis Comer
+East Carthage,East Carthage,Travis_Internal_GFOForecast,1,2019-01-01 00:00:00.000,,0,0,0,2019-09-20 12:49:19.000,Travis Comer
+Everest 1 H,Everest 1 H,Travis_Internal_GFOForecast,1,2019-01-01 00:00:00.000,,0,0,0,2019-09-20 12:50:30.000,Travis Comer
+Fox,Fox,Travis_Internal_GFOForecast,1,2019-01-01 00:00:00.000,,0,0,0,2019-09-20 12:41:57.000,Travis Comer
+Glenwood,Glenwood,Travis_Internal_GFOForecast,1,2019-01-01 00:00:00.000,,0,0,0,2019-09-20 12:52:05.000,Travis Comer
+Nash,Nash,Travis_Internal_GFOForecast,1,2019-01-01 00:00:00.000,,0,0,0,2019-09-20 12:48:39.000,Travis Comer
+Oak Hill,Oak Hill,Travis_Internal_GFOForecast,1,2019-01-01 00:00:00.000,,0,0,0,2019-09-20 12:42:55.000,Travis Comer
+Rainier 2 H,Rainier 2 H,Travis_Internal_GFOForecast,1,2019-01-01 00:00:00.000,,0,0,0,2019-09-20 12:40:07.000,Travis Comer
+Rainier 2 H B,Rainier 2 H B,Travis_Internal_GFOForecast,1,2019-01-01 00:00:00.000,,0,0,0,2019-09-20 12:48:29.000,Travis Comer
+Stockman,Stockman,Travis_Internal_GFOForecast,1,2019-01-01 00:00:00.000,,0,0,0,2019-09-20 12:49:50.000,Travis Comer
+Trex 4 H U,Trex 4 H U,Travis_Internal_GFOForecast,1,2019-01-01 00:00:00.000,,0,0,0,2019-09-20 12:43:05.000,Travis Comer
+Ttops 2 H B,Ttops 2 H B,Travis_Internal_GFOForecast,1,2019-01-01 00:00:00.000,,0,0,0,2019-09-20 12:45:38.000,Travis Comer
+Vulcanodon 1 H,Vulcanodon 1 H,Travis_Internal_GFOForecast,1,2019-01-01 00:00:00.000,,0,0,0,2019-09-20 12:44:58.000,Travis Comer
+Vulcanodon 1 H B,Vulcanodon 1 H B,Travis_Internal_GFOForecast,1,2019-01-01 00:00:00.000,,0,0,0,2019-09-20 12:39:38.000,Travis Comer
+Walker J 2 H,Walker J 2 H,Travis_Internal_GFOForecast,1,2019-01-01 00:00:00.000,,0,0,0,2019-09-20 12:50:49.000,Travis Comer
+Walker J 2 H B,Walker J 2 H B,Travis_Internal_GFOForecast,1,2019-01-01 00:00:00.000,,0,0,0,2019-09-20 12:43:44.000,Travis Comer
+West Carthage,West Carthage,Travis_Internal_GFOForecast,1,2019-01-01 00:00:00.000,,0,0,0,2019-09-20 12:40:16.000,Travis Comer
+Woodlawn,Woodlawn,Travis_Internal_GFOForecast,1,2019-01-01 00:00:00.000,,0,0,0,2019-09-20 12:40:26.000,Travis Comer
